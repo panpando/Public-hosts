@@ -1,4 +1,4 @@
-#Update Time 2015-07-20 21:28
+#Update Time 2015-07-25 19:00
 #[Start]
 
 #WebStore&Extensions
@@ -72,7 +72,7 @@
 128.0.86.245 id.l.google.com
 128.0.86.245 sandbox.google.com
 128.0.86.245 sandbox.l.google.com
-#64.233.188.90 cert-test.sandbox.google.com
+64.233.162.90 cert-test.sandbox.google.com
 128.0.86.245 labs.google.com
 128.0.86.245 sites.google.com
 128.0.86.245 sites-china.l.google.com
@@ -256,19 +256,19 @@
 128.0.86.245 coderview.chromium.org
 128.0.86.245 build.chromium.org
 128.0.86.245 console.developers.google.com
-128.0.86.245 www.googlecode.com
-128.0.86.245 cjxlist1.googlecode.com
-128.0.86.245 haoutil.googlecode.com
-128.0.86.245 autoproxy-gfwlist.googlecode.com
-128.0.86.245 earth-api-samples.googlecode.com
-128.0.86.245 chromium.googlecode.com
-128.0.86.245 googlecode.l.google.com
-128.0.86.245 googlecode.com
-128.0.86.245 googlesource.com
-128.0.86.245 www.googlesource.com
-128.0.86.245 chromium.googlesource.com
-128.0.86.245 android.googlesource.com
-128.0.86.245 uploads.code.google.com
+64.233.162.82 www.googlecode.com
+64.233.162.82 cjxlist1.googlecode.com
+64.233.162.82 haoutil.googlecode.com
+64.233.162.82 autoproxy-gfwlist.googlecode.com
+64.233.162.82 earth-api-samples.googlecode.com
+64.233.162.82 chromium.googlecode.com
+64.233.162.82 googlecode.l.google.com
+64.233.162.82 googlecode.com
+64.233.162.82 googlesource.com
+64.233.162.82 www.googlesource.com
+64.233.162.82 chromium.googlesource.com
+64.233.162.82 android.googlesource.com
+64.233.162.82 uploads.code.google.com
 
 #Maps
 128.0.86.245 ditu.google.com

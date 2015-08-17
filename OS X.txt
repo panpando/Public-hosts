@@ -1,4 +1,4 @@
-#Update Time 2015-07-25 19:00
+#Update Time 2015-08-17 17:40
 #[Start]
 
 #WebStore&Extensions
@@ -31,6 +31,7 @@
 #Page
 128.0.86.245 google.com
 128.0.86.245 www.google.com
+128.0.86.245 www.google.org
 128.0.86.245 www.google.com.hk
 128.0.86.245 www.google.com.sg
 128.0.86.245 scholar.l.google.com
@@ -117,8 +118,10 @@
 128.0.86.245 cse.google.com
 128.0.86.245 cloud.google.com
 128.0.86.245 contacts.google.com
+128.0.86.245 services.google.com
 #128.0.86.245 play.google.com
 128.0.86.245 fiber.google.com
+128.0.86.245 forms.google.com
 
 #Gstatic
 128.0.86.245 gstatic.com
@@ -810,6 +813,8 @@
 64.233.188.129 login.corp.google.com
 64.233.188.129 uberproxy.corp.google.com
 64.233.188.129 uberproxy.l.google.com
+128.0.86.245 apps.admob.com
+128.0.86.245 investor.google.com
 
 #Gravatar
 68.232.44.121 www.gravatar.com

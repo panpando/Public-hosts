@@ -246,7 +246,7 @@
 216.239.38.125 tbn2.google.com
 216.239.38.125 tbn3.google.com
 64.233.188.192 supl.google.com
-#(supl.google.com需使用开放7272端口的IP，一般以192结尾）
+#(supl.google.com需使用开放7276端口的IP，一般以192结尾）
 
 #Developer
 216.239.38.125 developer.google.com

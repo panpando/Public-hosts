@@ -53,7 +53,7 @@
 
 #Page
 216.239.38.125 google.com
-216.239.38.125 www.google.com
+59.18.46.20 www.google.com
 216.239.38.125 www.google.org
 216.239.38.125 www.google.com.hk
 216.239.38.125 www.google.com.sg
@@ -68,7 +68,7 @@
 216.239.38.125 books.google.com
 216.239.38.125 books.google.com.hk
 216.239.38.125 print.google.com
-216.239.38.125 appengine.google.com
+59.18.46.20 appengine.google.com
 216.239.38.125 inbox.google.com
 216.239.38.125 support.google.com
 216.239.38.125 desktop.google.com
@@ -96,7 +96,7 @@
 216.239.38.125 id.l.google.com
 216.239.38.125 sandbox.google.com
 216.239.38.125 sandbox.l.google.com
-64.233.162.90 cert-test.sandbox.google.com
+64.233.188.90 cert-test.sandbox.google.com
 216.239.38.125 labs.google.com
 216.239.38.125 sites.google.com
 216.239.38.125 sites-china.l.google.com
@@ -139,7 +139,7 @@
 216.239.38.125 spreadsheets.google.com
 216.239.38.125 apis.google.com
 216.239.38.125 cse.google.com
-216.239.38.125 cloud.google.com
+59.18.46.20 cloud.google.com
 216.239.38.125 contacts.google.com
 216.239.38.125 services.google.com
 216.239.38.125 play.google.com
@@ -246,13 +246,13 @@
 216.239.38.125 browserchannel-spreadsheets.l.google.com
 216.239.38.125 browsersync.google.com
 216.239.38.125 browsersync.l.google.com
-#(以下需使用211结尾的IP)
-64.233.188.211 ext.google.com
-64.233.188.211 proxy.googlezip.net
-64.233.188.211 compress.googlezip.net
-64.233.188.211 proxy-dev.googlezip.net
-64.233.188.211 check.googlezip.net
-#(以上需使用211结尾的IP)
+#(以下需使用默认证书为googlezip.net的IP)
+216.58.221.76 ext.google.com
+216.58.221.76 proxy.googlezip.net
+216.58.221.76 compress.googlezip.net
+216.58.221.76 proxy-dev.googlezip.net
+#(以上需使用默认证书为googlezip.net的IP)
+216.239.38.126 check.googlezip.net
 216.239.38.125 encrypted.google.com
 216.239.38.125 encrypted.google.com.hk
 216.239.38.125 encrypted.google.com.tw
@@ -272,17 +272,17 @@
 #(supl.google.com需使用开放7276端口的IP，一般以192结尾）
 
 #Developer
-216.239.38.125 developer.google.com
-216.239.38.125 developers.google.com
+59.18.46.20 developer.google.com
+59.18.46.20 developers.google.com
 216.239.38.125 code.google.com
 216.239.38.125 code.l.google.com
 216.239.38.125 chromium.org
 216.239.38.125 www.chromium.org
 216.239.38.125 dev.chromium.org
 216.239.38.125 blog.chromium.org
-216.239.38.125 coderview.chromium.org
+59.18.46.20 coderview.chromium.org
 216.239.38.125 build.chromium.org
-216.239.38.125 console.developers.google.com
+59.18.46.20 console.developers.google.com
 64.233.162.82 www.googlecode.com
 64.233.162.82 cjxlist1.googlecode.com
 64.233.162.82 haoutil.googlecode.com
@@ -775,12 +775,12 @@
 64.233.188.188 gcm.l.google.com
 #(以上需使用开放5228端口的IP，一般以188结尾）
 #(以下3478端口，一般以127结尾，需使用TCP检测端口)
-64.233.188.127 stun.l.google.com
-64.233.188.127 alt1.stun.l.google.com
-64.233.188.127 alt2.stun.l.google.com
-64.233.188.127 alt3.stun.l.google.com
-64.233.188.127 alt4.stun.l.google.com
-64.233.188.127 alt5.stun.l.google.com
+64.233.186.127 stun.l.google.com
+64.233.186.127 alt1.stun.l.google.com
+64.233.186.127 alt2.stun.l.google.com
+64.233.186.127 alt3.stun.l.google.com
+64.233.186.127 alt4.stun.l.google.com
+64.233.186.127 alt5.stun.l.google.com
 #(以上3478端口，一般以127结尾，需使用TCP检测端口)
 216.239.38.125 www.l.google.com
 216.239.38.125 www0.l.google.com

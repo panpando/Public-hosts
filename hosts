@@ -123,7 +123,7 @@
 216.239.38.125 security.google.com
 216.239.38.125 history.google.com
 216.239.38.125 trends.google.com
-216.239.38.125 www.googleadsercices.com
+#216.239.38.125 www.googleadservices.com
 216.239.38.125 picasa.google.com
 216.239.38.125 picasaweb.google.com
 216.239.38.125 picasaweb.l.google.com
@@ -206,6 +206,7 @@
 216.239.38.125 commondatastorage.googleapis.com
 216.239.38.125 redirector-bigcache.googleapis.com
 216.239.38.125 android.googleapis.com
+216.239.38.125 gcm-http.googleapis.com
 216.239.38.125 mt0.googleapis.com
 216.239.38.125 mt1.googleapis.com
 216.239.38.125 mt2.googleapis.com
@@ -247,12 +248,12 @@
 216.239.38.125 browsersync.google.com
 216.239.38.125 browsersync.l.google.com
 #(以下需使用默认证书为googlezip.net的IP)
-216.58.221.76 ext.google.com
+#216.58.221.76 ext.google.com
 216.58.221.76 proxy.googlezip.net
 216.58.221.76 compress.googlezip.net
 216.58.221.76 proxy-dev.googlezip.net
 #(以上需使用默认证书为googlezip.net的IP)
-216.239.38.126 check.googlezip.net
+216.239.38.126 check.googlezip.net #Server: sffe
 216.239.38.125 encrypted.google.com
 216.239.38.125 encrypted.google.com.hk
 216.239.38.125 encrypted.google.com.tw
@@ -671,9 +672,6 @@
 64.233.188.125 talkx.l.google.com
 64.233.188.125 talk.l.google.com
 64.233.188.125 talkgadget.google.com
-64.233.188.125 chromoting-host.talkgadget.google.com
-64.233.188.125 chromoting-oauth.talkgadget.google.com
-64.233.188.125 chromoting-client.talkgadget.google.com
 #(以上需使用开放5222、5223端口的IP，一般以125结尾）
 216.239.38.125 plus.url.google.com
 216.239.38.125 0.talkgadget.google.com
@@ -686,6 +684,9 @@
 216.239.38.125 7.talkgadget.google.com
 216.239.38.125 8.talkgadget.google.com
 216.239.38.125 9.talkgadget.google.com
+216.239.38.125 chromoting-host.talkgadget.google.com
+216.239.38.125 chromoting-oauth.talkgadget.google.com
+216.239.38.125 chromoting-client.talkgadget.google.com
 216.239.38.125 wildcard-talkgadget.l.google.com
 216.239.38.125 browserchannel-docs.l.google.com
 216.239.38.125 isolated.mail.google.com
@@ -772,6 +773,8 @@
 64.233.188.188 mobile-gtalk.l.google.com
 64.233.188.188 mtalk.google.com
 64.233.188.188 gcm.googleapis.com
+64.233.188.188 gcm-xmpp.googleapis.com
+64.233.188.188 gcm-preprod.googleapis.com
 64.233.188.188 gcm.l.google.com
 #(以上需使用开放5228端口的IP，一般以188结尾）
 #(以下3478端口，一般以127结尾，需使用TCP检测端口)

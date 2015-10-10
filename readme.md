@@ -39,11 +39,17 @@ hosts不适合长时间、大流量频繁使用，如有需求自行购买跨越
 
 所有修改完毕之后就可以修改hosts文件了。
 
-【Android】自行搜索Fqrouter 
+【Linux】
 
-【iOS】自行在AppStore搜索VPN 
+1.取得root权限
 
-【Linux】自己动动手百度一下
+2.前往文件夹 /etc/，找到hosts文件
+
+3.下载Linux.txt，重命名为hosts，粘贴替换，完成
+
+【Android】同上（需使用支持root的文件管理器，如 Root Explorer）
+
+【iOS】同上（root改为越狱，需使用iFile）
 
 -----------------------------------------------------------------
 

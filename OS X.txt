@@ -30,7 +30,7 @@
 
 #Page
 216.239.38.125 google.com
-216.239.38.125 www.google.com
+59.18.46.20 www.google.com
 216.239.38.125 www.google.org
 216.239.38.125 www.google.com.hk
 216.239.38.125 www.google.com.sg
@@ -45,7 +45,7 @@
 216.239.38.125 books.google.com
 216.239.38.125 books.google.com.hk
 216.239.38.125 print.google.com
-216.239.38.125 appengine.google.com
+59.18.46.20 appengine.google.com
 216.239.38.125 inbox.google.com
 216.239.38.125 support.google.com
 216.239.38.125 desktop.google.com
@@ -73,7 +73,7 @@
 216.239.38.125 id.l.google.com
 216.239.38.125 sandbox.google.com
 216.239.38.125 sandbox.l.google.com
-64.233.162.90 cert-test.sandbox.google.com
+64.233.188.90 cert-test.sandbox.google.com
 216.239.38.125 labs.google.com
 216.239.38.125 sites.google.com
 216.239.38.125 sites-china.l.google.com
@@ -100,7 +100,7 @@
 216.239.38.125 security.google.com
 216.239.38.125 history.google.com
 216.239.38.125 trends.google.com
-216.239.38.125 www.googleadsercices.com
+#216.239.38.125 www.googleadservices.com
 216.239.38.125 picasa.google.com
 216.239.38.125 picasaweb.google.com
 216.239.38.125 picasaweb.l.google.com
@@ -116,7 +116,7 @@
 216.239.38.125 spreadsheets.google.com
 216.239.38.125 apis.google.com
 216.239.38.125 cse.google.com
-216.239.38.125 cloud.google.com
+59.18.46.20 cloud.google.com
 216.239.38.125 contacts.google.com
 216.239.38.125 services.google.com
 216.239.38.125 play.google.com
@@ -183,6 +183,7 @@
 216.239.38.125 commondatastorage.googleapis.com
 216.239.38.125 redirector-bigcache.googleapis.com
 216.239.38.125 android.googleapis.com
+216.239.38.125 gcm-http.googleapis.com
 216.239.38.125 mt0.googleapis.com
 216.239.38.125 mt1.googleapis.com
 216.239.38.125 mt2.googleapis.com
@@ -223,13 +224,13 @@
 216.239.38.125 browserchannel-spreadsheets.l.google.com
 216.239.38.125 browsersync.google.com
 216.239.38.125 browsersync.l.google.com
-#(ÒÔÏÂĞèÊ¹ÓÃ211½áÎ²µÄIP)
-64.233.188.211 ext.google.com
-64.233.188.211 proxy.googlezip.net
-64.233.188.211 compress.googlezip.net
-64.233.188.211 proxy-dev.googlezip.net
-64.233.188.211 check.googlezip.net
-#(ÒÔÉÏĞèÊ¹ÓÃ211½áÎ²µÄIP)
+#(ä»¥ä¸‹éœ€ä½¿ç”¨é»˜è®¤è¯ä¹¦ä¸ºgooglezip.netçš„IP)
+#216.58.221.76 ext.google.com
+216.58.221.76 proxy.googlezip.net
+216.58.221.76 compress.googlezip.net
+216.58.221.76 proxy-dev.googlezip.net
+#(ä»¥ä¸Šéœ€ä½¿ç”¨é»˜è®¤è¯ä¹¦ä¸ºgooglezip.netçš„IP)
+216.239.38.126 check.googlezip.net #Server: sffe
 216.239.38.125 encrypted.google.com
 216.239.38.125 encrypted.google.com.hk
 216.239.38.125 encrypted.google.com.tw
@@ -246,20 +247,20 @@
 216.239.38.125 tbn2.google.com
 216.239.38.125 tbn3.google.com
 64.233.188.192 supl.google.com
-#(supl.google.comĞèÊ¹ÓÃ¿ª·Å7276¶Ë¿ÚµÄIP£¬Ò»°ãÒÔ192½áÎ²£©
+#(supl.google.coméœ€ä½¿ç”¨å¼€æ”¾7276ç«¯å£çš„IPï¼Œä¸€èˆ¬ä»¥192ç»“å°¾ï¼‰
 
 #Developer
-216.239.38.125 developer.google.com
-216.239.38.125 developers.google.com
+59.18.46.20 developer.google.com
+59.18.46.20 developers.google.com
 216.239.38.125 code.google.com
 216.239.38.125 code.l.google.com
 216.239.38.125 chromium.org
 216.239.38.125 www.chromium.org
 216.239.38.125 dev.chromium.org
 216.239.38.125 blog.chromium.org
-216.239.38.125 coderview.chromium.org
+59.18.46.20 coderview.chromium.org
 216.239.38.125 build.chromium.org
-216.239.38.125 console.developers.google.com
+59.18.46.20 console.developers.google.com
 64.233.162.82 www.googlecode.com
 64.233.162.82 cjxlist1.googlecode.com
 64.233.162.82 haoutil.googlecode.com
@@ -322,7 +323,7 @@
 64.233.162.83 m.googlemail.com
 64.233.162.83 mail-china.l.google.com
 216.239.38.125 gmail.google.com
-#(SMTP¡¢POP¡¢IMAP²¿·Ö£¬ĞèÊ¹ÓÃ¿ª·Å465¡¢587¡¢993¡¢995¶Ë¿ÚµÄIP£¬Ò»°ãÒÔ16¡¢108¡¢109½áÎ²)
+#(SMTPã€POPã€IMAPéƒ¨åˆ†ï¼Œéœ€ä½¿ç”¨å¼€æ”¾465ã€587ã€993ã€995ç«¯å£çš„IPï¼Œä¸€èˆ¬ä»¥16ã€108ã€109ç»“å°¾)
 64.233.188.109 gmail-imap.l.google.com
 64.233.188.16 googlemail-imap.l.google.com
 64.233.188.108 gmail-smtp.l.google.com
@@ -338,7 +339,7 @@
 64.233.188.109 gmail-smtp-msa.l.google.com
 64.233.188.27 gmail-smtp-in.l.google.com
 64.233.188.14 gmr-smtp-in.l.google.com
-#(SMTP¡¢POP¡¢IMAP²¿·Ö£¬ĞèÊ¹ÓÃ¿ª·Å465¡¢587¡¢993¡¢995¶Ë¿ÚµÄIP£¬Ò»°ãÒÔ16¡¢108¡¢109½áÎ²)
+#(SMTPã€POPã€IMAPéƒ¨åˆ†ï¼Œéœ€ä½¿ç”¨å¼€æ”¾465ã€587ã€993ã€995ç«¯å£çš„IPï¼Œä¸€èˆ¬ä»¥16ã€108ã€109ç»“å°¾)
 
 #GoogleDrive&Docs
 216.239.38.125 docs.google.com
@@ -601,12 +602,12 @@
 216.239.38.125 large-uploads.l.google.com
 
 #Blog
-#(ÒÔÏÂÌõÄ¿²»Ö§³ÖhttpsÁ¬½Ó£¬ÒÑ×¢ÊÍ)
+#(ä»¥ä¸‹æ¡ç›®ä¸æ”¯æŒhttpsè¿æ¥ï¼Œå·²æ³¨é‡Š)
 #216.239.38.125 googlechromereleases.blogspot.com
 #216.239.38.125 googleblog.blogspot.com
 #216.239.38.125 google-opensource.blogspot.com
 #216.239.38.125 googletalk.blogspot.com
-#(ÒÔÉÏÌõÄ¿²»Ö§³ÖhttpsÁ¬½Ó£¬ÒÑ×¢ÊÍ)
+#(ä»¥ä¸Šæ¡ç›®ä¸æ”¯æŒhttpsè¿æ¥ï¼Œå·²æ³¨é‡Š)
 216.239.38.125 blogger.com
 216.239.38.125 www.blogger.com
 216.239.38.125 blogger.l.google.com
@@ -643,15 +644,12 @@
 216.239.38.125 base7.googlehosted.com
 216.239.38.125 base8.googlehosted.com
 216.239.38.125 base9.googlehosted.com
-#(ÒÔÏÂĞèÊ¹ÓÃ¿ª·Å5222¡¢5223¶Ë¿ÚµÄIP£¬Ò»°ãÒÔ125½áÎ²£©
+#(ä»¥ä¸‹éœ€ä½¿ç”¨å¼€æ”¾5222ã€5223ç«¯å£çš„IPï¼Œä¸€èˆ¬ä»¥125ç»“å°¾ï¼‰
 64.233.188.125 talk.google.com
 64.233.188.125 talkx.l.google.com
 64.233.188.125 talk.l.google.com
 64.233.188.125 talkgadget.google.com
-64.233.188.125 chromoting-host.talkgadget.google.com
-64.233.188.125 chromoting-oauth.talkgadget.google.com
-64.233.188.125 chromoting-client.talkgadget.google.com
-#(ÒÔÉÏĞèÊ¹ÓÃ¿ª·Å5222¡¢5223¶Ë¿ÚµÄIP£¬Ò»°ãÒÔ125½áÎ²£©
+#(ä»¥ä¸Šéœ€ä½¿ç”¨å¼€æ”¾5222ã€5223ç«¯å£çš„IPï¼Œä¸€èˆ¬ä»¥125ç»“å°¾ï¼‰
 216.239.38.125 plus.url.google.com
 216.239.38.125 0.talkgadget.google.com
 216.239.38.125 1.talkgadget.google.com
@@ -663,6 +661,9 @@
 216.239.38.125 7.talkgadget.google.com
 216.239.38.125 8.talkgadget.google.com
 216.239.38.125 9.talkgadget.google.com
+216.239.38.125 chromoting-host.talkgadget.google.com
+216.239.38.125 chromoting-oauth.talkgadget.google.com
+216.239.38.125 chromoting-client.talkgadget.google.com
 216.239.38.125 wildcard-talkgadget.l.google.com
 216.239.38.125 browserchannel-docs.l.google.com
 216.239.38.125 isolated.mail.google.com
@@ -734,31 +735,33 @@
 216.239.38.125 28.client-channel.google.com
 216.239.38.125 29.client-channel.google.com
 #
-#(ÒÔÏÂĞèÊ¹ÓÃ193½áÎ²µÄIP)
+#(ä»¥ä¸‹éœ€ä½¿ç”¨193ç»“å°¾çš„IP)
 #
-#ÒÔÏÂÎ´ÕÒµ½¿ÉÓÃIP£¬ÒÑ×¢ÊÍÊ¹ÆäÊ§Ğ§
+#ä»¥ä¸‹æœªæ‰¾åˆ°å¯ç”¨IPï¼Œå·²æ³¨é‡Šä½¿å…¶å¤±æ•ˆ
 #64.233.188.193 m.google.com
 #64.233.188.193 m.google.com.hk
 #64.233.188.193 mobile.google.com
 #64.233.188.193 mobile.l.google.com
-#ÒÔÉÏÎ´ÕÒµ½¿ÉÓÃIP£¬ÒÑ×¢ÊÍÊ¹ÆäÊ§Ğ§
+#ä»¥ä¸Šæœªæ‰¾åˆ°å¯ç”¨IPï¼Œå·²æ³¨é‡Šä½¿å…¶å¤±æ•ˆ
 #
-#(ÒÔÏÂĞèÊ¹ÓÃ193½áÎ²µÄIP)
+#(ä»¥ä¸‹éœ€ä½¿ç”¨193ç»“å°¾çš„IP)
 #
-#(ÒÔÏÂĞèÊ¹ÓÃ¿ª·Å5228¶Ë¿ÚµÄIP£¬Ò»°ãÒÔ188½áÎ²£©
+#(ä»¥ä¸‹éœ€ä½¿ç”¨å¼€æ”¾5228ç«¯å£çš„IPï¼Œä¸€èˆ¬ä»¥188ç»“å°¾ï¼‰
 64.233.188.188 mobile-gtalk.l.google.com
 64.233.188.188 mtalk.google.com
 64.233.188.188 gcm.googleapis.com
+64.233.188.188 gcm-xmpp.googleapis.com
+64.233.188.188 gcm-preprod.googleapis.com
 64.233.188.188 gcm.l.google.com
-#(ÒÔÉÏĞèÊ¹ÓÃ¿ª·Å5228¶Ë¿ÚµÄIP£¬Ò»°ãÒÔ188½áÎ²£©
-#(ÒÔÏÂ3478¶Ë¿Ú£¬Ò»°ãÒÔ127½áÎ²£¬ĞèÊ¹ÓÃTCP¼ì²â¶Ë¿Ú)
-64.233.188.127 stun.l.google.com
-64.233.188.127 alt1.stun.l.google.com
-64.233.188.127 alt2.stun.l.google.com
-64.233.188.127 alt3.stun.l.google.com
-64.233.188.127 alt4.stun.l.google.com
-64.233.188.127 alt5.stun.l.google.com
-#(ÒÔÉÏ3478¶Ë¿Ú£¬Ò»°ãÒÔ127½áÎ²£¬ĞèÊ¹ÓÃTCP¼ì²â¶Ë¿Ú)
+#(ä»¥ä¸Šéœ€ä½¿ç”¨å¼€æ”¾5228ç«¯å£çš„IPï¼Œä¸€èˆ¬ä»¥188ç»“å°¾ï¼‰
+#(ä»¥ä¸‹3478ç«¯å£ï¼Œä¸€èˆ¬ä»¥127ç»“å°¾ï¼Œéœ€ä½¿ç”¨TCPæ£€æµ‹ç«¯å£)
+64.233.186.127 stun.l.google.com
+64.233.186.127 alt1.stun.l.google.com
+64.233.186.127 alt2.stun.l.google.com
+64.233.186.127 alt3.stun.l.google.com
+64.233.186.127 alt4.stun.l.google.com
+64.233.186.127 alt5.stun.l.google.com
+#(ä»¥ä¸Š3478ç«¯å£ï¼Œä¸€èˆ¬ä»¥127ç»“å°¾ï¼Œéœ€ä½¿ç”¨TCPæ£€æµ‹ç«¯å£)
 216.239.38.125 www.l.google.com
 216.239.38.125 www0.l.google.com
 216.239.38.125 www1.l.google.com
@@ -894,4 +897,4 @@
 198.35.26.96 wiktionary.org
 
 #[End]
-#±¾hosts½ö¹©Ñ§Ï°¡¢ÑĞ¾¿¡¢¹¤×÷¡¢Õı³£Ê¹ÓÃGoogle Chrome£¬ÇëÎğÓÃÓÚÆäËû·Ç·¨ÓÃÍ¾
+#æœ¬hostsä»…ä¾›å­¦ä¹ ã€ç ”ç©¶ã€å·¥ä½œã€æ­£å¸¸ä½¿ç”¨Google Chromeï¼Œè¯·å‹¿ç”¨äºå…¶ä»–éæ³•ç”¨é€”

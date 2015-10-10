@@ -18,7 +18,7 @@ hosts不适合长时间、大流量频繁使用，如有需求自行购买跨越
 
 1.解压压缩文件包
 
-2.复制压缩文件包下无后缀名为hosts的文件
+2.复制压缩文件包下无后缀名为[hosts的文件](https://raw.githubusercontent.com/aofall/Public-hosts/master/hosts)
 
 3.进入压缩文件下的etc快捷方式，粘贴替换，完成 . 如果你的电脑安装了国内的SB管家，请添加白名单
 (快捷方式指向位置为C:\Windows\system32\drivers\etc)
@@ -31,7 +31,7 @@ hosts不适合长时间、大流量频繁使用，如有需求自行购买跨越
 
 3.右键文本编辑程序打开
 
-4.将本压缩包内OS X.txt里的全部内容添加进去，保存，完成
+4.将本压缩包内[OS X.txt](https://raw.githubusercontent.com/aofall/Public-hosts/master/OS%20X.txt)里的全部内容添加进去，保存，完成
 
 如果提示无权限保存，需要添加现有管理员用户名的读写权限，点击hosts文件，通过“更多信息”或者command + I “显示简介”, 点击最右下角的锁图标，使用管理员密码解锁，进行修改；然后点击左边“+”添加管理员用户名，并修改其权限为“读与写”；
 
@@ -45,7 +45,7 @@ hosts不适合长时间、大流量频繁使用，如有需求自行购买跨越
 
 2.前往文件夹 /etc/，找到hosts文件
 
-3.下载Linux.txt，重命名为hosts，粘贴替换，完成
+3.下载[Linux.txt](https://raw.githubusercontent.com/aofall/Public-hosts/master/Linux.txt)，重命名为hosts，粘贴替换，完成
 
 【Android】同上（需使用支持root的文件管理器，如 Root Explorer）
 

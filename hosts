@@ -671,9 +671,9 @@
 64.233.188.125 talk.google.com
 64.233.188.125 talkx.l.google.com
 64.233.188.125 talk.l.google.com
-64.233.188.125 talkgadget.google.com
 #(以上需使用开放5222、5223端口的IP，一般以125结尾）
 216.239.38.125 plus.url.google.com
+216.239.38.125 talkgadget.google.com
 216.239.38.125 0.talkgadget.google.com
 216.239.38.125 1.talkgadget.google.com
 216.239.38.125 2.talkgadget.google.com

@@ -2,7 +2,7 @@
 
 如何下载？点击右侧的Download ZIP，也可以查看文件然后手动复制添加
 
-<strong>请不要催更，不定期更新</strong>
+**请不要催更，不定期更新**
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
@@ -45,11 +45,37 @@ hosts不适合长时间、大流量频繁使用，如有需求自行购买跨越
 
 2.前往文件夹 /etc/，找到hosts文件
 
-3.下载[Linux.txt](https://raw.githubusercontent.com/aofall/Public-hosts/master/Linux.txt)，重命名为hosts，粘贴替换，完成
+3.下载[Linux.txt](https://raw.githubusercontent.com/aofall/Public-hosts/master/Linux.txt)，
 
-【Android】同上（需使用支持root的文件管理器，如 Root Explorer）
+4.将文件换行符转为UNIX格式，然后重命名为hosts，粘贴替换，完成
 
-【iOS】同上（root改为越狱，需使用iFile）
+可使用dos2unix转换换行符 
+
+>dos2unix Linux.txt(文件绝对路径)
+
+如果提示没有安装的话
+
+>Ubuntu/Debian
+
+>sudo apt-get install dos2unix
+
+
+
+>CentOS/Fedora/Redhat
+
+>sudo yum install dos2unix
+
+【Android】
+
+同上（需使用支持root的文件管理器，如 Root Explorer）
+
+建议用电脑修改换行符再传到设备上（Windows平台可用Notepad++之类的，OS X可用dos2unix）
+
+【iOS】
+
+同上（root改为越狱，需使用iFile）
+
+建议用电脑修改换行符再传到设备上（Windows平台可用Notepad++之类的，OS X可用dos2unix）
 
 -----------------------------------------------------------------
 

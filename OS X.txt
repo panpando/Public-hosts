@@ -754,14 +754,14 @@
 64.233.188.188 gcm-preprod.googleapis.com
 64.233.188.188 gcm.l.google.com
 #(以上需使用开放5228端口的IP，一般以188结尾）
-#(以下3478端口，一般以127结尾，需使用TCP检测端口)
+#(以下19305端口，一般以127结尾)
 64.233.186.127 stun.l.google.com
 64.233.186.127 alt1.stun.l.google.com
 64.233.186.127 alt2.stun.l.google.com
 64.233.186.127 alt3.stun.l.google.com
 64.233.186.127 alt4.stun.l.google.com
 64.233.186.127 alt5.stun.l.google.com
-#(以上3478端口，一般以127结尾，需使用TCP检测端口)
+#(以上19305端口，一般以127结尾)
 216.239.38.125 www.l.google.com
 216.239.38.125 www0.l.google.com
 216.239.38.125 www1.l.google.com
@@ -820,6 +820,14 @@
 64.233.188.129 uberproxy.l.google.com
 216.239.38.125 apps.admob.com
 216.239.38.125 investor.google.com
+
+#Golang
+216.239.38.126 golang.org
+216.239.38.126 www.golang.org
+216.239.38.126 blog.golang.org
+216.239.38.126 play.golang.org
+216.239.38.126 tip.golang.org
+216.239.38.126 tour.golang.org
 
 #Gravatar
 68.232.44.121 www.gravatar.com

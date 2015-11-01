@@ -258,7 +258,7 @@
 216.239.38.125 www.chromium.org
 216.239.38.125 dev.chromium.org
 216.239.38.125 blog.chromium.org
-59.18.46.20 coderview.chromium.org
+#59.18.46.20 coderview.chromium.org
 216.239.38.125 build.chromium.org
 59.18.46.20 console.developers.google.com
 64.233.162.82 www.googlecode.com
@@ -618,8 +618,6 @@
 216.239.38.125 feeds.feedburner.com
 
 #Others
-72.14.249.180 www.ingress.com
-72.14.249.180 ghs-svc-https-c1169.ghs-ssl.googlehosted.com
 64.233.188.121 ghs.google.com
 64.233.188.121 ghs.l.google.com
 64.233.188.121 ghs46.google.com
@@ -648,9 +646,9 @@
 64.233.188.125 talk.google.com
 64.233.188.125 talkx.l.google.com
 64.233.188.125 talk.l.google.com
-64.233.188.125 talkgadget.google.com
 #(以上需使用开放5222、5223端口的IP，一般以125结尾）
 216.239.38.125 plus.url.google.com
+216.239.38.125 talkgadget.google.com
 216.239.38.125 0.talkgadget.google.com
 216.239.38.125 1.talkgadget.google.com
 216.239.38.125 2.talkgadget.google.com

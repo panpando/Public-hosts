@@ -1,4 +1,4 @@
-#Update Time 2015-09-20 14:50
+#Update Time 2015-12-04 22:16
 #[Start]
 
 #WebStore&Extensions
@@ -829,11 +829,11 @@
 
 #Gravatar
 68.232.44.121 www.gravatar.com
-68.232.44.121 en.gravatar.com
+#68.232.44.121 en.gravatar.com
 68.232.44.121 0.gravatar.com
 68.232.44.121 1.gravatar.com
 68.232.44.121 2.gravatar.com
-68.232.44.121 3.gravatar.com
+#68.232.44.121 3.gravatar.com
 
 #W3Schools
 68.232.44.251 www.w3schools.com
@@ -841,6 +841,7 @@
 
 #Github
 192.30.252.140 gist.github.com
+192.30.252.141 gist.github.com
 
 #Amazonaws S3
 54.231.66.65 s3.amazonaws.com
@@ -851,56 +852,56 @@
 54.231.80.208 github-com.s3.amazonaws.com
 
 #Wikipedia
-198.35.26.96 www.wikipedia.org
-198.35.26.96 zh.wikipedia.org
-198.35.26.96 zh.m.wikipedia.org
-198.35.26.96 en.wikipedia.org
-198.35.26.96 en.m.wikipedia.org
-198.35.26.96 zh-yue.wikipedia.org
-198.35.26.96 zh-yue.m.wikipedia.org
-198.35.26.96 zh-classical.wikipedia.org
-198.35.26.96 zh-classical.m.wikipedia.org
-198.35.26.96 gan.wikipedia.org
-198.35.26.96 gan.m.wikipedia.org
-198.35.26.96 ja.wikipedia.org
-198.35.26.96 ja.m.wikipedia.org
+208.80.154.224 www.wikipedia.org
+208.80.154.224 zh.wikipedia.org
+208.80.154.224 zh.m.wikipedia.org
+208.80.154.224 en.wikipedia.org
+208.80.154.224 en.m.wikipedia.org
+208.80.154.224 zh-yue.wikipedia.org
+208.80.154.224 zh-yue.m.wikipedia.org
+208.80.154.224 zh-classical.wikipedia.org
+208.80.154.224 zh-classical.m.wikipedia.org
+208.80.154.224 gan.wikipedia.org
+208.80.154.224 gan.m.wikipedia.org
+208.80.154.224 ja.wikipedia.org
+208.80.154.224 ja.m.wikipedia.org
 198.35.26.112 upload.wikimedia.org
-198.35.26.106 bits.wikimedia.org
-198.35.26.96 www.mediawiki.org
-198.35.26.96 www.wikibooks.org
-198.35.26.96 www.wikidata.org
-198.35.26.96 www.wikimedia.org
-198.35.26.96 www.wikimediafoundation.org
-198.35.26.96 www.wikinews.org
-198.35.26.96 www.wikiquote.org
-198.35.26.96 www.wikisource.org
-198.35.26.96 www.wikiversity.org
-198.35.26.96 www.wikivoyage.org
-198.35.26.96 www.wiktionary.org
-198.35.26.96 m.mediawiki.org
-198.35.26.96 m.wikibooks.org
-198.35.26.96 m.wikidata.org
-198.35.26.96 m.wikimedia.org
-198.35.26.96 m.wikimediafoundation.org
-198.35.26.96 m.wikinews.org
-198.35.26.96 m.wikipedia.org
-198.35.26.96 m.wikiquote.org
-198.35.26.96 m.wikisource.org
-198.35.26.96 m.wikiversity.org
-198.35.26.96 m.wikivoyage.org
-198.35.26.96 m.wiktionary.org
-198.35.26.96 mediawiki.org
-198.35.26.96 wikibooks.org
-198.35.26.96 wikidata.org
-198.35.26.96 wikimedia.org
-198.35.26.96 wikimediafoundation.org
-198.35.26.96 wikinews.org
-198.35.26.96 wikipedia.org
-198.35.26.96 wikiquote.org
-198.35.26.96 wikisource.org
-198.35.26.96 wikiversity.org
-198.35.26.96 wikivoyage.org
-198.35.26.96 wiktionary.org
+208.80.154.224 bits.wikimedia.org
+208.80.154.224 www.mediawiki.org
+208.80.154.224 www.wikibooks.org
+208.80.154.224 www.wikidata.org
+208.80.154.224 www.wikimedia.org
+208.80.154.224 www.wikimediafoundation.org
+208.80.154.224 www.wikinews.org
+208.80.154.224 www.wikiquote.org
+208.80.154.224 www.wikisource.org
+208.80.154.224 www.wikiversity.org
+208.80.154.224 www.wikivoyage.org
+208.80.154.224 www.wiktionary.org
+198.35.26.108 m.mediawiki.org
+198.35.26.108 m.wikibooks.org
+198.35.26.108 m.wikidata.org
+198.35.26.108 m.wikimedia.org
+198.35.26.108 m.wikimediafoundation.org
+198.35.26.108 m.wikinews.org
+198.35.26.108 m.wikipedia.org
+198.35.26.108 m.wikiquote.org
+198.35.26.108 m.wikisource.org
+198.35.26.108 m.wikiversity.org
+198.35.26.108 m.wikivoyage.org
+198.35.26.108 m.wiktionary.org
+208.80.154.224 mediawiki.org
+208.80.154.224 wikibooks.org
+208.80.154.224 wikidata.org
+208.80.154.224 wikimedia.org
+208.80.154.224 wikimediafoundation.org
+208.80.154.224 wikinews.org
+208.80.154.224 wikipedia.org
+208.80.154.224 wikiquote.org
+208.80.154.224 wikisource.org
+208.80.154.224 wikiversity.org
+208.80.154.224 wikivoyage.org
+208.80.154.224 wiktionary.org
 
 #[End]
 #本hosts仅供学习、研究、工作、正常使用Google Chrome，请勿用于其他非法用途

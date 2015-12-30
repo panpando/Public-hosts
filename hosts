@@ -130,8 +130,8 @@
 216.239.38.125 g.co
 216.239.38.125 goo.gl
 216.239.38.125 chrome.com
-#216.239.38.125 dl.google.com
-#216.239.38.125 dl.l.google.com
+203.208.49.174 dl.google.com
+203.208.49.174 dl.l.google.com
 216.239.38.125 dl-ssl.google.com
 216.239.38.125 hangout.google.com
 216.239.38.125 hangouts.google.com
@@ -202,8 +202,8 @@
 216.239.38.125 plus.googleapis.com
 216.239.38.125 chart.googleapis.com
 216.239.38.125 content.googleapis.com
-216.239.38.125 storage.googleapis.com
-216.239.38.125 commondatastorage.googleapis.com
+216.58.221.80 storage.googleapis.com
+216.58.221.80 commondatastorage.googleapis.com
 216.239.38.125 redirector-bigcache.googleapis.com
 216.239.38.125 android.googleapis.com
 216.239.38.125 gcm-http.googleapis.com
@@ -239,8 +239,8 @@
 216.239.38.125 sb-ssl.l.google.com
 216.239.38.125 safebrowsing.google.com
 216.239.38.125 safebrowsing.clients.google.com
-216.239.38.125 safebrowsing-cache.google.com
-216.239.38.125 safebrowsing.cache.l.google.com
+61.49.62.49 safebrowsing-cache.google.com
+61.49.62.49 safebrowsing.cache.l.google.com
 216.239.38.125 alt1-safebrowsing.google.com
 216.239.38.125 alt2-safebrowsing.google.com
 216.239.38.125 alt3-safebrowsing.google.com
@@ -327,14 +327,14 @@
 216.239.38.125 mts2.google.com
 216.239.38.125 mts3.google.com
 216.239.38.125 places.google.com
-216.239.38.125 khm.google.com
-216.239.38.125 khm.l.google.com
+61.49.62.49 khm.google.com
+61.49.62.49 khm.l.google.com
 216.239.38.125 khms.google.com
 216.239.38.125 khms.l.google.com
-216.239.38.125 khm0.google.com
-216.239.38.125 khm1.google.com
-216.239.38.125 khm2.google.com
-216.239.38.125 khm3.google.com
+61.49.62.49 khm0.google.com
+61.49.62.49 khm1.google.com
+61.49.62.49 khm2.google.com
+61.49.62.49 khm3.google.com
 216.239.38.125 khms0.google.com
 216.239.38.125 khms1.google.com
 216.239.38.125 khms2.google.com
@@ -1581,7 +1581,7 @@
 #Blog
 #(以下条目不支持https连接，已注释)
 #216.239.38.125 googlechromereleases.blogspot.com
-#216.239.38.125 googleblog.blogspot.com
+216.239.38.125 googleblog.blogspot.com
 #216.239.38.125 google-opensource.blogspot.com
 #216.239.38.125 googletalk.blogspot.com
 #(以上条目不支持https连接，已注释)
@@ -1604,6 +1604,7 @@
 64.233.188.121 www.webrtc.org
 64.233.188.121 chromeexperiments.com
 64.233.188.121 www.chromeexperiments.com
+64.233.188.121 workshop.chromeexperiments.com
 64.233.188.121 vr.chromeexperiments.com
 64.233.188.121 start.olivida.com
 64.233.188.121 tools.android.com

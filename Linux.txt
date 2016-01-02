@@ -1,12 +1,12 @@
 127.0.0.1 localhost
 
-#Update Time 2015-12-27 17:52
+#Update Time 2016-01-02 12:04
 #[Start]
 
 #WebStore&Extensions
 216.239.38.125 clients2.google.com
 216.239.38.125 chrome.google.com
-216.239.38.125 clients2.googleusercontent.com
+59.18.46.20 clients2.googleusercontent.com
 216.239.38.125 lh0.googleusercontent.com
 216.239.38.125 lh1.googleusercontent.com
 216.239.38.125 lh2.googleusercontent.com
@@ -24,16 +24,15 @@
 216.239.38.125 bookmarks.google.com
 
 #Accounts
-64.233.162.84 accounts.google.com
-64.233.162.84 accounts.google.com.hk
-64.233.162.84 accounts.google.com.tw
-64.233.162.84 accounts.l.google.com
+173.194.69.84 accounts.google.com
+173.194.69.84 accounts.google.com.hk
+173.194.69.84 accounts.google.com.tw
+173.194.69.84 accounts.l.google.com
 216.239.38.125 myaccount.google.com
 
 #Page
 216.239.38.125 google.com
 59.18.46.20 www.google.com
-216.239.38.125 www.google.org
 216.239.38.125 www.google.com.hk
 216.239.38.125 www.google.com.sg
 216.239.38.125 scholar.l.google.com
@@ -109,8 +108,8 @@
 216.239.38.125 g.co
 216.239.38.125 goo.gl
 216.239.38.125 chrome.com
-#216.239.38.125 dl.google.com
-#216.239.38.125 dl.l.google.com
+203.208.49.174 dl.google.com
+203.208.49.174 dl.l.google.com
 216.239.38.125 dl-ssl.google.com
 216.239.38.125 hangout.google.com
 216.239.38.125 hangouts.google.com
@@ -170,20 +169,24 @@
 
 #GoogleApis
 216.239.38.125 googleapis.com
+216.239.38.125 chart.apis.google.com
 216.239.38.125 www.googleapis.com
 216.239.38.125 googleapis.l.google.com
 216.239.38.125 translate.googleapis.com
 216.239.38.125 ajax.googleapis.com
-216.239.38.125 googleapis-ajax.google.com
-216.239.38.125 googleapis-ajax.l.google.com
+#216.239.38.125 googleapis-ajax.google.com
+#216.239.38.125 googleapis-ajax.l.google.com
 #216.239.38.125 fonts.googleapis.com
 216.239.38.125 maps.googleapis.com
 216.239.38.125 plus.googleapis.com
 216.239.38.125 chart.googleapis.com
 216.239.38.125 content.googleapis.com
-216.239.38.125 storage.googleapis.com
-216.239.38.125 commondatastorage.googleapis.com
+216.239.38.125 safebrowsing.googleapis.com
+216.58.221.80 storage.googleapis.com
+216.58.221.80 commondatastorage.googleapis.com
+216.239.38.125 bigcache.googleapis.com
 216.239.38.125 redirector-bigcache.googleapis.com
+216.239.38.125 imasdk.googleapis.com
 216.239.38.125 android.googleapis.com
 216.239.38.125 gcm-http.googleapis.com
 216.239.38.125 mt0.googleapis.com
@@ -206,6 +209,7 @@
 216.239.38.125 mts7.googleapis.com
 216.239.38.125 mts8.googleapis.com
 216.239.38.125 mts9.googleapis.com
+216.239.38.125 beyond-pa.clients6.google.com
 216.239.38.125 google-analytics.com
 #216.239.38.125 www.google-analytics.com
 #216.239.38.125 www-google-analytics.l.google.com
@@ -218,8 +222,8 @@
 216.239.38.125 sb-ssl.l.google.com
 216.239.38.125 safebrowsing.google.com
 216.239.38.125 safebrowsing.clients.google.com
-216.239.38.125 safebrowsing-cache.google.com
-216.239.38.125 safebrowsing.cache.l.google.com
+61.49.62.49 safebrowsing-cache.google.com
+61.49.62.49 safebrowsing.cache.l.google.com
 216.239.38.125 alt1-safebrowsing.google.com
 216.239.38.125 alt2-safebrowsing.google.com
 216.239.38.125 alt3-safebrowsing.google.com
@@ -256,7 +260,7 @@
 59.18.46.20 developers.google.com
 59.18.46.20 console.developers.google.com
 59.18.46.20 cloudssh.developers.google.com
-64.233.162.82 source.developers.google.com
+173.194.69.82 source.developers.google.com
 59.18.46.20 developer.chrome.com
 216.239.38.125 code.google.com
 216.239.38.125 code.l.google.com
@@ -266,19 +270,20 @@
 216.239.38.125 blog.chromium.org
 #59.18.46.20 coderview.chromium.org
 216.239.38.125 build.chromium.org
-64.233.162.82 www.googlecode.com
-64.233.162.82 cjxlist1.googlecode.com
-64.233.162.82 haoutil.googlecode.com
-64.233.162.82 autoproxy-gfwlist.googlecode.com
-64.233.162.82 earth-api-samples.googlecode.com
-64.233.162.82 chromium.googlecode.com
-64.233.162.82 googlecode.l.google.com
-64.233.162.82 googlecode.com
-64.233.162.82 googlesource.com
-64.233.162.82 www.googlesource.com
-64.233.162.82 chromium.googlesource.com
-64.233.162.82 android.googlesource.com
-64.233.162.82 uploads.code.google.com
+173.194.69.82 www.googlecode.com
+173.194.69.82 cjxlist1.googlecode.com
+173.194.69.82 haoutil.googlecode.com
+173.194.69.82 autoproxy-gfwlist.googlecode.com
+173.194.69.82 earth-api-samples.googlecode.com
+173.194.69.82 chromium.googlecode.com
+173.194.69.82 googlecode.l.google.com
+173.194.69.82 googlecode.com
+173.194.69.82 googlesource.com
+173.194.69.82 www.googlesource.com
+173.194.69.82 chromium.googlesource.com
+173.194.69.82 android.googlesource.com
+173.194.69.82 uploads.code.google.com
+173.194.69.82 googlecode.l.googleusercontent.com
 
 #Maps
 216.239.38.125 ditu.google.com
@@ -306,27 +311,27 @@
 216.239.38.125 mts2.google.com
 216.239.38.125 mts3.google.com
 216.239.38.125 places.google.com
-216.239.38.125 khm.google.com
-216.239.38.125 khm.l.google.com
+61.49.62.49 khm.google.com
+61.49.62.49 khm.l.google.com
 216.239.38.125 khms.google.com
 216.239.38.125 khms.l.google.com
-216.239.38.125 khm0.google.com
-216.239.38.125 khm1.google.com
-216.239.38.125 khm2.google.com
-216.239.38.125 khm3.google.com
+61.49.62.49 khm0.google.com
+61.49.62.49 khm1.google.com
+61.49.62.49 khm2.google.com
+61.49.62.49 khm3.google.com
 216.239.38.125 khms0.google.com
 216.239.38.125 khms1.google.com
 216.239.38.125 khms2.google.com
 216.239.38.125 khms3.google.com
 
 #Mail
-64.233.162.83 mail.google.com
-64.233.162.83 googlemail.l.google.com
-64.233.162.83 www.gmail.com
-64.233.162.83 gmail.com
-64.233.162.83 m.gmail.com
-64.233.162.83 m.googlemail.com
-64.233.162.83 mail-china.l.google.com
+173.194.69.83 mail.google.com
+173.194.69.83 googlemail.l.google.com
+173.194.69.83 www.gmail.com
+173.194.69.83 gmail.com
+173.194.69.83 m.gmail.com
+173.194.69.83 m.googlemail.com
+173.194.69.83 mail-china.l.google.com
 216.239.38.125 gmail.google.com
 #(SMTP、POP、IMAP部分，需使用开放465、587、993、995端口的IP，一般以16、108、109结尾)
 64.233.188.109 gmail-imap.l.google.com
@@ -371,7 +376,9 @@
 216.239.38.125 translate.googleusercontent.com
 216.239.38.125 googlehosted.l.googleusercontent.com
 216.239.38.125 photos-ugc.l.google.com
+216.239.38.125 books.googleusercontent.com
 216.239.38.125 themes.googleusercontent.com
+216.239.38.125 static.googleusercontent.com
 216.239.38.125 mail-attachment.googleusercontent.com
 216.239.38.125 oauth.googleusercontent.com
 216.239.38.125 feedback.googleusercontent.com
@@ -424,6 +431,20 @@
 216.239.38.125 gp7.googleusercontent.com
 216.239.38.125 gp8.googleusercontent.com
 216.239.38.125 gp9.googleusercontent.com
+216.239.38.125 ap1.googleusercontent.com
+216.239.38.125 ap2.googleusercontent.com
+216.239.38.125 ap3.googleusercontent.com
+216.239.38.125 ap4.googleusercontent.com
+216.239.38.125 ap5.googleusercontent.com
+216.239.38.125 ap6.googleusercontent.com
+216.239.38.125 ap7.googleusercontent.com
+216.239.38.125 ap8.googleusercontent.com
+216.239.38.125 ap9.googleusercontent.com
+216.239.38.125 mua3.googleusercontent.com
+216.239.38.125 mua4.googleusercontent.com
+216.239.38.125 mua5.googleusercontent.com
+216.239.38.125 mua6.googleusercontent.com
+216.239.38.125 sj.googleusercontent.com
 216.239.38.125 androidmarket.googleusercontent.com
 216.239.38.125 doc-00-00-docs.googleusercontent.com
 216.239.38.125 doc-04-00-docs.googleusercontent.com
@@ -1497,7 +1518,9 @@
 216.239.38.125 images-oz-opensocial.googleusercontent.com
 216.239.38.125 images-lso-opensocial.googleusercontent.com
 216.239.38.125 images-pos-opensocial.googleusercontent.com
-216.239.38.125 googlecode.l.googleusercontent.com
+216.239.38.125 ytimg.googleusercontent.com
+216.239.38.125 code-opensocial.googleusercontent.com
+216.239.38.125 spreadsheets-opensocial.googleusercontent.com
 216.239.38.125 1-ps.googleusercontent.com
 216.239.38.125 2-ps.googleusercontent.com
 216.239.38.125 3-ps.googleusercontent.com
@@ -1507,6 +1530,73 @@
 216.239.38.125 7-ps.googleusercontent.com
 216.239.38.125 8-ps.googleusercontent.com
 216.239.38.125 9-ps.googleusercontent.com
+216.239.38.125 www-opensocial.googleusercontent.com
+216.239.38.125 www-open-opensocial.googleusercontent.com
+216.239.38.125 www-opensocial-sandbox.googleusercontent.com
+216.239.38.125 www-oz-opensocial.googleusercontent.com
+216.239.38.125 www-fusiontables-opensocial.googleusercontent.com
+216.239.38.125 www-trixcopysheet-opensocial.googleusercontent.com
+216.239.38.125 www-onepick-opensocial.googleusercontent.com
+216.239.38.125 www-kix-opensocial.googleusercontent.com
+216.239.38.125 www-igprev-opensocial.googleusercontent.com
+216.239.38.125 www-ig-opensocial.googleusercontent.com
+216.239.38.125 www-fc-opensocial.googleusercontent.com
+216.239.38.125 www-focus-opensocial.googleusercontent.com
+173.194.69.132 www-calendar-opensocial.googleusercontent.com
+173.194.69.132 www-hangouts-opensocial.googleusercontent.com
+173.194.69.132 www-gm-opensocial.googleusercontent.com
+216.239.38.125 wave.googleusercontent.com
+216.239.38.125 0-wave-opensocial.googleusercontent.com
+216.239.38.125 1-wave-opensocial.googleusercontent.com
+216.239.38.125 2-wave-opensocial.googleusercontent.com
+216.239.38.125 3-wave-opensocial.googleusercontent.com
+216.239.38.125 4-wave-opensocial.googleusercontent.com
+216.239.38.125 5-wave-opensocial.googleusercontent.com
+216.239.38.125 6-wave-opensocial.googleusercontent.com
+216.239.38.125 7-wave-opensocial.googleusercontent.com
+216.239.38.125 8-wave-opensocial.googleusercontent.com
+216.239.38.125 9-wave-opensocial.googleusercontent.com
+216.239.38.125 10-wave-opensocial.googleusercontent.com
+216.239.38.125 11-wave-opensocial.googleusercontent.com
+216.239.38.125 12-wave-opensocial.googleusercontent.com
+216.239.38.125 13-wave-opensocial.googleusercontent.com
+216.239.38.125 14-wave-opensocial.googleusercontent.com
+216.239.38.125 15-wave-opensocial.googleusercontent.com
+216.239.38.125 16-wave-opensocial.googleusercontent.com
+216.239.38.125 17-wave-opensocial.googleusercontent.com
+216.239.38.125 18-wave-opensocial.googleusercontent.com
+216.239.38.125 19-wave-opensocial.googleusercontent.com
+216.239.38.125 20-wave-opensocial.googleusercontent.com
+216.239.38.125 21-wave-opensocial.googleusercontent.com
+216.239.38.125 22-wave-opensocial.googleusercontent.com
+216.239.38.125 23-wave-opensocial.googleusercontent.com
+216.239.38.125 24-wave-opensocial.googleusercontent.com
+216.239.38.125 25-wave-opensocial.googleusercontent.com
+216.239.38.125 26-wave-opensocial.googleusercontent.com
+216.239.38.125 27-wave-opensocial.googleusercontent.com
+216.239.38.125 28-wave-opensocial.googleusercontent.com
+216.239.38.125 29-wave-opensocial.googleusercontent.com
+216.239.38.125 30-wave-opensocial.googleusercontent.com
+216.239.38.125 31-wave-opensocial.googleusercontent.com
+216.239.38.125 32-wave-opensocial.googleusercontent.com
+216.239.38.125 33-wave-opensocial.googleusercontent.com
+216.239.38.125 34-wave-opensocial.googleusercontent.com
+216.239.38.125 35-wave-opensocial.googleusercontent.com
+216.239.38.125 36-wave-opensocial.googleusercontent.com
+216.239.38.125 37-wave-opensocial.googleusercontent.com
+216.239.38.125 38-wave-opensocial.googleusercontent.com
+216.239.38.125 39-wave-opensocial.googleusercontent.com
+216.239.38.125 40-wave-opensocial.googleusercontent.com
+216.239.38.125 lh3.ggpht.com
+216.239.38.125 lh4.ggpht.com
+216.239.38.125 lh5.ggpht.com
+216.239.38.125 lh6.ggpht.com
+216.239.38.125 mua3.ggpht.com
+216.239.38.125 mua4.ggpht.com
+216.239.38.125 mua5.ggpht.com
+216.239.38.125 mua6.ggpht.com
+216.239.38.125 yt3.ggpht.com
+216.239.38.125 yt4.ggpht.com
 216.239.38.125 nt0.ggpht.com
 216.239.38.125 nt1.ggpht.com
 216.239.38.125 nt2.ggpht.com
@@ -1531,6 +1621,8 @@
 216.239.38.125 storage-ugc.l.googleusercontent.com
 216.239.38.125 apidata.googleusercontent.com
 216.239.38.125 music.googleusercontent.com
+216.239.38.125 gadgets.l.googleusercontent.com
+216.239.38.125 drive-thirdparty.googleusercontent.com
 
 #Clients
 216.239.38.125 clients.l.google.com
@@ -1560,7 +1652,7 @@
 #Blog
 #(以下条目不支持https连接，已注释)
 #216.239.38.125 googlechromereleases.blogspot.com
-#216.239.38.125 googleblog.blogspot.com
+216.239.38.125 googleblog.blogspot.com
 #216.239.38.125 google-opensource.blogspot.com
 #216.239.38.125 googletalk.blogspot.com
 #(以上条目不支持https连接，已注释)
@@ -1573,19 +1665,38 @@
 216.239.38.125 img2.blogblog.com
 216.239.38.125 feeds.feedburner.com
 
+#ghs
+216.239.38.21 ghs.google.com
+216.239.38.21 ghs.l.google.com
+216.239.38.21 ghs46.google.com
+216.239.38.21 ghs46.l.google.com
+216.239.38.21 goto.ext.google.com
+216.239.38.21 webrtc.org
+216.239.38.21 www.webrtc.org
+216.239.38.21 chromeexperiments.com
+216.239.38.21 www.chromeexperiments.com
+216.239.38.21 workshop.chromeexperiments.com
+216.239.38.21 vr.chromeexperiments.com
+216.239.38.21 start.olivida.com
+216.239.38.21 tools.android.com
+216.239.38.21 www.html5rocks.com
+216.239.38.21 slides.html5rocks.com
+216.239.38.21 playground.html5rocks.com
+216.239.38.21 studio.html5rocks.com
+216.239.38.21 lists.webmproject.org
+216.239.38.21 www.waveprotocol.org
+216.239.38.21 www.20thingsilearned.com
+216.239.38.21 www.creativelab5.com
+216.239.38.21 blog.webmproject.org
+216.239.38.21 www.agoogleaday.com
+216.239.38.21 www.gosetsuden.jp
+216.239.38.21 www.thegooglepuzzle.com
+216.239.38.21 www.thegobridgeoglepuzzle.com
+216.239.38.21 www.googlezeitgeist.com
+216.239.38.21 news.dartlang.org
+216.239.38.21 gsamplemaps.googlepages.com
+
 #Others
-64.233.188.121 ghs.google.com
-64.233.188.121 ghs.l.google.com
-64.233.188.121 ghs46.google.com
-64.233.188.121 ghs46.l.google.com
-64.233.188.121 goto.ext.google.com
-64.233.188.121 webrtc.org
-64.233.188.121 www.webrtc.org
-64.233.188.121 chromeexperiments.com
-64.233.188.121 www.chromeexperiments.com
-64.233.188.121 vr.chromeexperiments.com
-64.233.188.121 start.olivida.com
-64.233.188.121 tools.android.com
 216.239.38.125 jump.google.com
 216.239.38.125 base.google.com
 216.239.38.125 base0.googlehosted.com
@@ -1764,6 +1875,9 @@
 216.239.38.125 cbks1.google.com
 216.239.38.125 cbks2.google.com
 216.239.38.125 cbks3.google.com
+216.239.38.125 music-streaming.l.google.com
+216.239.38.125 t.doc-0-0-sj.sj.googleusercontent.com
+216.239.38.125 uploadsj.clients.google.com
 64.233.188.129 corp.google.com
 64.233.188.129 login.corp.google.com
 64.233.188.129 uberproxy.corp.google.com
@@ -1772,6 +1886,9 @@
 216.239.38.125 investor.google.com
 216.239.38.125 certificate-transparency.org
 216.239.38.125 www.certificate-transparency.org
+59.18.46.20 google.org
+59.18.46.20 www.google.org
+59.18.46.20 blog.google.org
 
 #Golang
 59.18.46.20 golang.org

@@ -66,6 +66,8 @@
 216.239.38.125 images.google.com.hk
 216.239.38.125 images.l.google.com
 216.239.38.125 plus.google.com
+216.239.38.125 profiles.google.com
+216.239.38.125 plusone.google.com
 216.239.38.125 keep.google.com
 216.239.38.125 script.google.com
 216.239.38.125 cse.google.com
@@ -101,6 +103,7 @@
 216.239.38.125 security.google.com
 216.239.38.125 history.google.com
 216.239.38.125 trends.google.com
+216.239.38.125 fusion.google.com
 #216.239.38.125 www.googleadservices.com
 216.239.38.125 picasa.google.com
 216.239.38.125 picasaweb.google.com
@@ -108,6 +111,7 @@
 216.239.38.125 g.co
 216.239.38.125 goo.gl
 216.239.38.125 chrome.com
+216.239.38.125 www.chrome.com
 203.208.49.174 dl.google.com
 203.208.49.174 dl.l.google.com
 216.239.38.125 dl-ssl.google.com
@@ -125,6 +129,7 @@
 216.239.38.125 forms.google.com
 216.239.38.125 on.google.com
 59.18.46.20 onetoday.google.com
+216.239.38.125 directory.google.com
 
 #Gstatic
 216.239.38.125 gstatic.com
@@ -214,6 +219,7 @@
 #216.239.38.125 www.google-analytics.com
 #216.239.38.125 www-google-analytics.l.google.com
 #216.239.38.125 ssl.google-analytics.com
+216.239.38.125 pack.google.com
 #216.239.38.125 cache.pack.google.com
 #216.239.38.125 cache.l.google.com
 216.239.38.125 sb.google.com
@@ -1889,6 +1895,25 @@
 59.18.46.20 google.org
 59.18.46.20 www.google.org
 59.18.46.20 blog.google.org
+216.239.38.125 abc.xyz
+216.239.38.125 peering.google.com
+216.239.38.125 pki.google.com
+216.239.38.125 gxc.google.com
+216.239.38.125 fi.google.com
+59.18.46.20 goto.google.com
+59.18.46.20 apps.google.com
+59.18.46.20 buzz.google.com
+216.239.38.125 lh2.google.com
+216.239.38.125 lh3.google.com
+216.239.38.125 lh4.google.com
+216.239.38.125 lh5.google.com
+216.239.38.125 lh6.google.com
+
+#Recaptcha
+59.18.46.20 www.recaptcha.net
+59.18.46.20 api.recaptcha.net
+59.18.46.20 api-secure.recaptcha.net
+59.18.46.20 mailhide.recaptcha.net
 
 #Golang
 59.18.46.20 golang.org

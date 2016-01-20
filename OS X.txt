@@ -1,4 +1,4 @@
-#Update Time 2016-01-02 12:04
+#Update Time 2016-01-20 19:38
 #[Start]
 
 #WebStore&Extensions
@@ -1944,6 +1944,9 @@
 54.231.66.65 s3.a-geo.amazonaws.com
 54.231.48.40 github-com.s3.amazonaws.com
 54.231.34.41 github-cloud.s3.amazonaws.com
+
+#OneDrive
+204.79.197.217 onedrive.live.com
 
 #Wikipedia
 208.80.154.224 www.wikipedia.org

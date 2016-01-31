@@ -154,16 +154,16 @@
 216.239.38.125 passwords.google.com
 
 # GoogleCN
-203.208.49.174 g.cn
-203.208.49.174 google.cn
-203.208.49.174 www.google.cn
-203.208.49.174 ditu.google.cn
-203.208.49.174 mt0.google.cn
-203.208.49.174 mt1.google.cn
-203.208.49.174 mt2.google.cn
-203.208.49.174 mt3.google.cn
-203.208.49.174 pack.google.cn
-203.208.49.174 www.gstatic.cn
+#203.208.49.174 g.cn
+#203.208.49.174 google.cn
+#203.208.49.174 www.google.cn
+#203.208.49.174 ditu.google.cn
+#203.208.49.174 mt0.google.cn
+#203.208.49.174 mt1.google.cn
+#203.208.49.174 mt2.google.cn
+#203.208.49.174 mt3.google.cn
+#203.208.49.174 pack.google.cn
+#203.208.49.174 www.gstatic.cn
 
 # Gstatic
 216.239.38.125 gstatic.com

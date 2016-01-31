@@ -45,10 +45,10 @@
 216.239.38.125 bookmarks.google.com
 
 # Accounts
-173.194.69.84 accounts.google.com
-173.194.69.84 accounts.google.com.hk
-173.194.69.84 accounts.google.com.tw
-173.194.69.84 accounts.l.google.com
+64.233.162.84 accounts.google.com
+64.233.162.84 accounts.google.com.hk
+64.233.162.84 accounts.google.com.tw
+64.233.162.84 accounts.l.google.com
 216.239.38.125 myaccount.google.com
 
 # Page
@@ -300,7 +300,7 @@
 59.18.46.20 developers.google.com
 59.18.46.20 console.developers.google.com
 59.18.46.20 cloudssh.developers.google.com
-173.194.69.82 source.developers.google.com
+64.233.162.82 source.developers.google.com
 59.18.46.20 developer.chrome.com
 216.239.38.125 code.google.com
 216.239.38.125 code.l.google.com
@@ -310,20 +310,20 @@
 216.239.38.125 blog.chromium.org
 #59.18.46.20 coderview.chromium.org
 216.239.38.125 build.chromium.org
-173.194.69.82 www.googlecode.com
-173.194.69.82 cjxlist1.googlecode.com
-173.194.69.82 haoutil.googlecode.com
-173.194.69.82 autoproxy-gfwlist.googlecode.com
-173.194.69.82 earth-api-samples.googlecode.com
-173.194.69.82 chromium.googlecode.com
-173.194.69.82 googlecode.l.google.com
-173.194.69.82 googlecode.com
-173.194.69.82 googlesource.com
-173.194.69.82 www.googlesource.com
-173.194.69.82 chromium.googlesource.com
-173.194.69.82 android.googlesource.com
-173.194.69.82 uploads.code.google.com
-173.194.69.82 googlecode.l.googleusercontent.com
+64.233.162.82 www.googlecode.com
+64.233.162.82 cjxlist1.googlecode.com
+64.233.162.82 haoutil.googlecode.com
+64.233.162.82 autoproxy-gfwlist.googlecode.com
+64.233.162.82 earth-api-samples.googlecode.com
+64.233.162.82 chromium.googlecode.com
+64.233.162.82 googlecode.l.google.com
+64.233.162.82 googlecode.com
+64.233.162.82 googlesource.com
+64.233.162.82 www.googlesource.com
+64.233.162.82 chromium.googlesource.com
+64.233.162.82 android.googlesource.com
+64.233.162.82 uploads.code.google.com
+64.233.162.82 googlecode.l.googleusercontent.com
 
 # Google Maps
 216.239.38.125 ditu.google.com
@@ -365,13 +365,13 @@
 216.239.38.125 khms3.google.com
 
 # Gmail
-173.194.69.83 mail.google.com
-173.194.69.83 googlemail.l.google.com
-173.194.69.83 www.gmail.com
-173.194.69.83 gmail.com
-173.194.69.83 m.gmail.com
-173.194.69.83 m.googlemail.com
-173.194.69.83 mail-china.l.google.com
+64.233.162.83 mail.google.com
+64.233.162.83 googlemail.l.google.com
+64.233.162.83 www.gmail.com
+64.233.162.83 gmail.com
+64.233.162.83 m.gmail.com
+64.233.162.83 m.googlemail.com
+64.233.162.83 mail-china.l.google.com
 216.239.38.125 gmail.google.com
 #(SMTP、POP、IMAP部分，需使用开放465、587、993、995端口的IP，一般以16、108、109结尾)
 64.233.188.109 gmail-imap.l.google.com

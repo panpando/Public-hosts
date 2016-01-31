@@ -2096,7 +2096,6 @@
 104.244.42.4 tdapi.twitter.com
 104.244.42.4 td.twitter.com
 104.244.42.4 blog.tweetdeck.com
-
 209.17.68.209	oi40.tinypic.com
 209.17.68.209	oi41.tinypic.com
 209.17.68.209	oi42.tinypic.com
@@ -2114,7 +2113,6 @@
 209.17.68.209	oi54.tinypic.com
 209.17.68.209	oi55.tinypic.com
 209.17.68.209	oi56.tinypic.com
-
 173.236.110.98	twitpic.com
 173.236.110.98	m1.twitpic.com
 185.45.5.40	upload.twitter.com
@@ -2131,12 +2129,30 @@
 173.236.110.98	web7.twitpic.com
 173.236.110.98	web8.twitpic.com
 173.236.110.98	web9.twitpic.com
-
 199.59.243.21	si0.twimg.co
 199.59.243.120	si1.twimg.co
 199.7.91.13	si2.twimg.co
 199.59.243.21	si3.twimg.co
 199.7.91.13	si4.twimg.co
 199.59.243.120	si5.twimg.co
+
+# Pixiv(For CMCC and CTT)
+#122.72.32.40 pixiv.net
+#122.72.32.40 www.pixiv.net
+#122.72.32.40 i1.pixiv.net
+#122.72.32.40 i2.pixiv.net
+#122.72.32.40 i3.pixiv.net
+#122.72.32.40 i4.pixiv.net
+#122.72.32.40 source.pixiv.net
+#122.72.32.40 img-comic.pixiv.net
+#122.72.32.40 imgaz.pixiv.net
+#122.72.32.40 spotlight.pics
+
+# Steam(For CMCC and CTT)
+#122.72.32.40 cdn.akamai.steamstatic.com
+
+# Steam(For China Unicom)
+#120.52.73.3 cdn.akamai.steamstatic.com
+
 #[End]
 #本hosts仅供学习、研究、工作、正常使用Google Chrome，请勿用于其他非法用途

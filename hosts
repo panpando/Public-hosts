@@ -133,8 +133,9 @@
 216.239.38.125 goo.gl
 216.239.38.125 chrome.com
 216.239.38.125 www.chrome.com
-203.208.49.174 dl.google.com
-203.208.49.174 dl.l.google.com
+#203.208.49.174 dl.google.com
+#203.208.49.174 dl.l.google.com
+//现在谷歌已把dl解析回国内
 216.239.38.125 dl-ssl.google.com
 216.239.38.125 hangout.google.com
 216.239.38.125 hangouts.google.com

@@ -2155,6 +2155,10 @@
 198.245.92.39 click.email.vimeo.com
 # Vimeo End
 
+# Filpboard
+54.225.64.251 beacon.flipboard.com
+54.225.64.251 fbprod.flipboard.com
+
 # Pixiv(For CMCC and CTT)
 #122.72.32.40 pixiv.net
 #122.72.32.40 www.pixiv.net

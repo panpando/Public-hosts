@@ -135,7 +135,7 @@
 202.86.162.172 www.chrome.com
 #203.208.49.174 dl.google.com
 #203.208.49.174 dl.l.google.com
-//现在谷歌已把dl解析回国内
+#现在谷歌已把dl解析回国内
 202.86.162.172 dl-ssl.google.com
 202.86.162.172 hangout.google.com
 202.86.162.172 hangouts.google.com

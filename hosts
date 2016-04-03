@@ -2002,6 +2002,29 @@
 202.86.162.172 tip.golang.org
 202.86.162.172 tour.golang.org
 
+# WordPress
+68.232.44.251 s.wordpress.org
+68.232.44.251 s.wordpress.org
+68.232.44.251 s1.wordpress.com
+68.232.44.251 s2.wordpress.com
+68.232.44.251 s3.wordpress.com
+
+# DuckDuckGo
+46.51.216.186 duckduckgo.com
+46.51.216.186 www.duckduckgo.com
+54.251.178.52 images.duckduckgo.com
+54.251.178.52 icons.duckduckgo.com
+96.45.83.40 help.duckduckgo.com
+
+# Startpage
+43.249.39.6 startpage.com
+43.249.39.6 www.startpage.com
+37.0.89.56 support.startpage.com
+37.0.88.62 support.ixquick.com
+37.0.88.62 blog.startpage.com
+64.71.175.183 ixquick.com
+64.71.175.183 www.ixquick.com
+
 # Gravatar
 68.232.44.121 www.gravatar.com
 #68.232.44.121 en.gravatar.com
@@ -2009,6 +2032,7 @@
 68.232.44.121 1.gravatar.com
 68.232.44.121 2.gravatar.com
 #68.232.44.121 3.gravatar.com
+68.232.44.121 s.gravatar.com
 
 # W3Schools
 68.232.44.251 www.w3schools.com
@@ -2029,6 +2053,8 @@
 
 # OneDrive
 204.79.197.217 onedrive.live.com
+204.79.197.217 skyweb.skyprod.akadns.net
+204.79.197.217 webedgegeo.skyprod.akadns.net
 
 # Wikipedia
 208.80.154.224 www.wikipedia.org
@@ -2082,6 +2108,18 @@
 208.80.154.224 wikivoyage.org
 208.80.154.224 wiktionary.org
 
+# Yahoo!
+202.43.194.205 mail.yahoo.com
+202.43.194.205 login.yahoo.com
+106.10.136.226 open.login.yahoo.com
+202.43.194.205 edit.yahoo.com
+202.43.194.205 sa.edit.yahoo.com
+202.43.194.205 c5.ah.yahoo.com
+119.160.242.41 geo.query.yahoo.com
+203.84.197.27 geo.yahoo.com
+203.84.197.27 hk.news.yahoo.com
+203.84.197.27 tw.news.yahoo.com
+
 # Flickr
 203.84.197.9 flickr.com
 203.84.197.9 www.flickr.com
@@ -2090,6 +2128,7 @@
 203.84.197.9 api.flickr.com
 203.84.197.9 secure.flickr.com
 203.84.197.9 heartbeat.flickr.com
+203.84.197.9 up.flickr.com
 192.0.79.32 code.flickr.com
 106.10.137.23 static.flickr.com
 106.10.137.23 farm1.staticflickr.com
@@ -2588,9 +2627,26 @@
 198.245.92.39 click.email.vimeo.com
 # Vimeo End
 
+# SoundCloud
+68.232.44.127 soundcloud.com
+68.232.44.127 www.soundcloud.com
+68.232.44.127 m.soundcloud.com
+68.232.44.127 api.soundcloud.com
+68.232.44.127 api-mobile.soundcloud.com
+68.232.44.127 api-v2.soundcloud.com
+68.232.44.127 promoted.soundcloud.com
+68.232.44.127 visuals.soundcloud.com
+68.232.44.96 a-v2.sndcdn.com
+68.232.44.96 va.sndcdn.com
+68.232.45.67 ec-media.soundcloud.com
+68.232.46.220 ec-rtmp-media.soundcloud.com
+
 # Filpboard
 54.225.64.251 beacon.flipboard.com
 54.225.64.251 fbprod.flipboard.com
+
+# Logmein
+77.242.192.193 secure.logmein.com
 
 # Pixiv(For CMCC and CTT)
 #122.72.32.40 pixiv.net

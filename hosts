@@ -2111,14 +2111,23 @@
 # Yahoo!
 202.43.194.205 mail.yahoo.com
 202.43.194.205 login.yahoo.com
+119.160.243.163 search.yahoo.com
+106.10.184.41 comet.yahoo.com
+106.10.184.41 pclick.yahoo.com
 106.10.136.226 open.login.yahoo.com
 202.43.194.205 edit.yahoo.com
 202.43.194.205 sa.edit.yahoo.com
 202.43.194.205 c5.ah.yahoo.com
 119.160.242.41 geo.query.yahoo.com
 203.84.197.27 geo.yahoo.com
+203.84.197.25 sports.yahoo.com
+203.84.197.25 help.yahoo.com
 203.84.197.27 hk.news.yahoo.com
 203.84.197.27 tw.news.yahoo.com
+27.123.201.212 csc.beap.bc.yahoo.com
+
+# Mega
+117.18.237.188 g.cdn1.mega.co.nz
 
 # Flickr
 203.84.197.9 flickr.com
@@ -2648,7 +2657,7 @@
 # Logmein
 77.242.192.193 secure.logmein.com
 
-# Pixiv(For CMCC and CTT)
+# For CMCC and CTT
 #122.72.32.40 pixiv.net
 #122.72.32.40 www.pixiv.net
 #122.72.32.40 i1.pixiv.net
@@ -2658,9 +2667,8 @@
 #122.72.32.40 source.pixiv.net
 #122.72.32.40 img-comic.pixiv.net
 #122.72.32.40 imgaz.pixiv.net
-#122.72.32.40 spotlight.pics
-
-# Steam(For CMCC and CTT)
+#122.72.32.40 tumblr.com
+#122.72.32.40 www.tumblr.com
 #122.72.32.40 cdn.akamai.steamstatic.com
 
 # Steam(For China Unicom)

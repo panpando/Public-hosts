@@ -53,10 +53,15 @@
 
 # Page
 202.86.162.172 google.com
+202.86.162.172 google.com.hk
+202.86.162.172 google.com.sg
+202.86.162.172 google.com.tw
+202.86.162.172 google.com.jp
 202.86.162.172 www.google.com
 202.86.162.172 www.google.com.hk
 202.86.162.172 www.google.com.sg
 202.86.162.172 www.google.com.tw
+202.86.162.172 www.google.com.jp
 202.86.162.172 scholar.l.google.com
 202.86.162.172 scholar.google.com
 202.86.162.172 scholar.google.com.hk
@@ -1988,6 +1993,7 @@
 202.86.162.172 www.domains.google
 202.86.162.172 registry.google
 202.86.162.172 www.registry.google
+202.86.162.172 firebase.google.com
 
 # Android
 202.86.162.172 android.com
@@ -2046,6 +2052,10 @@
 # W3Schools
 66.29.212.110 www.w3schools.com
 66.29.212.110 w3schools.com
+
+# iobit
+98.129.229.209 iobit.com
+110.232.178.193 www.iobit.com
 
 # Github
 192.30.252.140 gist.github.com

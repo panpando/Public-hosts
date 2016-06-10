@@ -21,7 +21,7 @@
 # ::1             localhost
 
 
-# Update Time 2016-05-21 20:42
+# Update Time 2016-06-10 13:33
 # [Start]
 
 # WebStore&Extensions
@@ -168,6 +168,14 @@
 #203.208.49.174 pack.google.cn
 #203.208.49.174 www.gstatic.cn
 #203.208.49.174 www.googleadservices.com
+#202.86.162.172 www.google-analytics.com
+#202.86.162.172 www-google-analytics.l.google.com
+#202.86.162.172 ssl.google-analytics.com
+#202.86.162.172 fonts.googleapis.com
+#202.86.162.172 csi.gstatic.com
+#202.86.162.172 fonts.gstatic.com
+#202.86.162.172 cache.pack.google.com
+#202.86.162.172 cache.l.google.com
 
 # Gstatic
 202.86.162.172 gstatic.com
@@ -207,8 +215,6 @@
 202.86.162.172 encrypted-tbn6.gstatic.com
 202.86.162.172 maps.gstatic.com
 202.86.162.172 csi.l.google.com
-#202.86.162.172 csi.gstatic.com
-#202.86.162.172 fonts.gstatic.com
 
 # Googleapis
 202.86.162.172 googleapis.com
@@ -219,7 +225,6 @@
 202.86.162.172 ajax.googleapis.com
 #202.86.162.172 googleapis-ajax.google.com
 #202.86.162.172 googleapis-ajax.l.google.com
-#202.86.162.172 fonts.googleapis.com
 202.86.162.172 maps.googleapis.com
 202.86.162.172 plus.googleapis.com
 202.86.162.172 chart.googleapis.com
@@ -256,12 +261,7 @@
 202.86.162.172 datasaver.googleapis.com
 202.86.162.172 beyond-pa.clients6.google.com
 202.86.162.172 google-analytics.com
-#202.86.162.172 www.google-analytics.com
-#202.86.162.172 www-google-analytics.l.google.com
-#202.86.162.172 ssl.google-analytics.com
 202.86.162.172 pack.google.com
-#202.86.162.172 cache.pack.google.com
-#202.86.162.172 cache.l.google.com
 202.86.162.172 sb.google.com
 202.86.162.172 sb.l.google.com
 202.86.162.172 sb-ssl.google.com
@@ -298,7 +298,7 @@
 202.86.162.172 tbn1.google.com
 202.86.162.172 tbn2.google.com
 202.86.162.172 tbn3.google.com
-64.233.188.192 supl.google.com
+64.233.171.192 supl.google.com
 #(supl.google.com需使用开放7276端口的IP，一般以192结尾）
 
 #Developer
@@ -316,7 +316,7 @@
 202.86.162.172 www.chromium.org
 202.86.162.172 dev.chromium.org
 202.86.162.172 blog.chromium.org
-#202.86.162.172 coderview.chromium.org
+#64.233.188.121 coderview.chromium.org
 202.86.162.172 build.chromium.org
 64.233.162.82 www.googlecode.com
 64.233.162.82 cjxlist1.googlecode.com
@@ -1985,7 +1985,7 @@
 202.86.162.172 sites-china.l.google.com
 202.86.162.172 sketchup.google.com
 202.86.162.172 www.panoramio.com
-#64.233.189.128 static.panoramio.com
+64.233.189.128 static.panoramio.com
 202.86.162.172 webmproject.org
 202.86.162.172 www.webmproject.org
 202.86.162.172 notifications.google.com
@@ -1994,6 +1994,7 @@
 202.86.162.172 registry.google
 202.86.162.172 www.registry.google
 202.86.162.172 firebase.google.com
+202.86.162.172 material.google.com
 
 # Android
 202.86.162.172 android.com
@@ -2019,7 +2020,7 @@
 
 # WordPress
 68.232.44.251 s.wordpress.org
-68.232.44.251 s.wordpress.org
+68.232.44.251 s.wordpress.com
 68.232.44.251 s1.wordpress.com
 68.232.44.251 s2.wordpress.com
 68.232.44.251 s3.wordpress.com

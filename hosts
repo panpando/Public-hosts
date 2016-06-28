@@ -155,6 +155,7 @@
 202.86.162.172 passwords.google.com
 202.86.162.172 answers.google.com
 202.86.162.172 orkut.google.com
+202.86.162.172 fonts.google.com
 
 # GoogleCN
 #203.208.49.174 g.cn
@@ -259,6 +260,7 @@
 202.86.162.172 mts9.googleapis.com
 202.86.162.172 ct.googleapis.com
 202.86.162.172 datasaver.googleapis.com
+202.86.162.172 remoting-pa.googleapis.com
 202.86.162.172 beyond-pa.clients6.google.com
 202.86.162.172 google-analytics.com
 202.86.162.172 pack.google.com
@@ -316,6 +318,7 @@
 202.86.162.172 www.chromium.org
 202.86.162.172 dev.chromium.org
 202.86.162.172 blog.chromium.org
+64.233.188.121 bugs.chromium.org
 #64.233.188.121 coderview.chromium.org
 202.86.162.172 build.chromium.org
 64.233.162.82 www.googlecode.com
@@ -2051,8 +2054,8 @@
 68.232.44.121 s.gravatar.com
 
 # W3Schools
-66.29.212.110 www.w3schools.com
-66.29.212.110 w3schools.com
+68.232.44.251 www.w3schools.com
+68.232.44.251 w3schools.com
 
 # iobit
 98.129.229.209 iobit.com

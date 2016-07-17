@@ -3849,5 +3849,20 @@
 120.192.89.153 www.zdfans.com
 119.10.42.189 www.dayanzai.me
 
-#[End]
-#本hosts仅供学习、研究、工作、正常使用Google Chrome，请勿用于其他非法用途
+# Block in-app ADs
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 ad.leadboltads.net
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 statis.api.3g.youku.com
+127.0.0.1 atm.youku.com
+127.0.0.1 stat.youku.com
+127.0.0.1 cm.passport.iqiyi.com
+127.0.0.1 cupid.iqiyi.com
+127.0.0.1 paopao.iqiyi.com
+127.0.0.1 ckm.iqiyi.com
+127.0.0.1 n.mark.letv.com
+127.0.0.1 ark.letv.com
+127.0.0.1 da.hunantv.com
+127.0.0.1 miaozhen.com
+127.0.0.1 ad.api.3g.tudou.com

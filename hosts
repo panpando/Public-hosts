@@ -2,7 +2,7 @@
 #	Partial data derived from cnAnonymous and aofall
 #	cnAnonymous: https://github.com/cnAnonymous/hosts
 #	aofall: https://github.com/aofall/Public-hosts
-#	Update: 2016-7-18
+#	Update: 2016-7-21
 
 127.0.0.1 localhost
 ::1 localhost
@@ -36,7 +36,7 @@
 202.86.162.172 google.com.hk
 202.86.162.172 google.com.sg
 202.86.162.172 google.com.tw
-202.86.162.172 google.com.jp
+202.86.162.172 google.co.jp
 202.86.162.172 www.google.com
 202.86.162.172 www.google.com.hk
 202.86.162.172 www.google.com.sg
@@ -190,6 +190,11 @@
 202.86.162.172 safebrowsing.googleapis.com
 216.58.221.80 storage.googleapis.com
 216.58.221.80 commondatastorage.googleapis.com
+216.58.221.80 gweb-letour.storage.googleapis.com
+216.58.221.80 c.commondatastorage.googleapis.com
+216.58.221.80 bucket.commondatastorage.googleapis.com
+216.58.221.80 chromium-browser-symbols.commondatastorage.googleapis.com
+216.58.221.80 static.panoramio.com.storage.googleapis.com
 202.86.162.172 bigcache.googleapis.com
 202.86.162.172 redirector-bigcache.googleapis.com
 202.86.162.172 imasdk.googleapis.com
@@ -218,7 +223,18 @@
 202.86.162.172 ct.googleapis.com
 202.86.162.172 datasaver.googleapis.com
 202.86.162.172 remoting-pa.googleapis.com
+202.86.162.172 accesspoints.googleapis.com
+202.86.162.172 clientmetrics-pa.googleapis.com
+202.86.162.172 cloudconfig.googleapis.com
+202.86.162.172 digitalassetlinks.googleapis.com
+202.86.162.172 firebase.googleapis.com
+202.86.162.172 firebasestorage.googleapis.com
+202.86.162.172 securetoken.googleapis.com
+202.86.162.172 cloudconsole-pa.clients6.google.com
+202.86.162.172 mobilesdk-pa.clients6.google.com
+202.86.162.172 people-pa.clients6.google.com
 202.86.162.172 beyond-pa.clients6.google.com
+202.86.162.172 servicemanagement.clients6.google.com
 202.86.162.172 google-analytics.com
 202.86.162.172 pack.google.com
 202.86.162.172 sb.google.com
@@ -263,7 +279,7 @@
 64.233.171.192 supl.google.com
 #(supl.google.com需使用开放7276端口的IP，一般以192结尾）
 
-#Developer
+# Developer
 202.86.162.172 developer.google.com
 202.86.162.172 developers.google.com
 202.86.162.172 console.developers.google.com
@@ -367,6 +383,10 @@
 64.233.188.16 pop.googlemail.com
 64.233.188.109 gmail-smtp-msa.l.google.com
 64.233.188.27 gmail-smtp-in.l.google.com
+64.233.188.27 alt1.gmail-smtp-in.l.google.com
+64.233.188.27 alt2.gmail-smtp-in.l.google.com
+64.233.188.27 alt3.gmail-smtp-in.l.google.com
+64.233.188.27 alt4.gmail-smtp-in.l.google.com
 64.233.188.14 gmr-smtp-in.l.google.com
 #(SMTP、POP、IMAP部分，需使用开放465、587、993、995端口的IP，一般以16、108、109结尾)
 
@@ -1685,6 +1705,10 @@
 202.86.162.172 yt3.googleusercontent.com
 202.86.162.172 yt4.googleusercontent.com
 202.86.162.172 yt5.googleusercontent.com
+202.86.162.172 yt6.googleusercontent.com
+202.86.162.172 yt7.googleusercontent.com
+202.86.162.172 yt8.googleusercontent.com
+202.86.162.172 yt9.googleusercontent.com
 202.86.162.172 lh0.ggpht.com
 202.86.162.172 lh1.ggpht.com
 202.86.162.172 lh2.ggpht.com
@@ -1849,6 +1873,7 @@
 64.233.188.121 b.android.com
 64.233.188.121 blog.panoramio.com
 64.233.188.121 www.tensorflow.org
+64.233.188.121 wiki.webmproject.org
 
 # Google Play
 203.208.39.205 0.gvt0.cn
@@ -2184,6 +2209,15 @@
 64.233.188.125 talk.google.com
 64.233.188.125 talkx.l.google.com
 64.233.188.125 talk.l.google.com
+64.233.188.125 alt1.talk.l.google.com
+64.233.188.125 alt2.talk.l.google.com
+64.233.188.125 alt3.talk.l.google.com
+64.233.188.125 alt4.talk.l.google.com
+64.233.188.125 alt5.talk.l.google.com
+64.233.188.125 alt6.talk.l.google.com
+64.233.188.125 alt7.talk.l.google.com
+64.233.188.125 alt8.talk.l.google.com
+64.233.188.125 alt9.talk.l.google.com
 #(以上需使用开放5222、5223端口的IP，一般以125结尾）
 202.86.162.172 plus.url.google.com
 202.86.162.172 talkgadget.google.com
@@ -2273,6 +2307,7 @@
 64.233.188.129 login.corp.google.com
 64.233.188.129 uberproxy.corp.google.com
 64.233.188.129 uberproxy.l.google.com
+64.233.188.129 r.cert.corp.google.com
 202.86.162.172 apps.admob.com
 202.86.162.172 investor.google.com
 202.86.162.172 certificate-transparency.org
@@ -2309,6 +2344,7 @@
 202.86.162.172 desktop2.google.com
 202.86.162.172 sandbox.l.google.com
 64.233.188.90 cert-test.sandbox.google.com
+64.233.162.81 staging-www.sandbox.googleapis.com
 202.86.162.172 sites-china.l.google.com
 202.86.162.172 sketchup.google.com
 202.86.162.172 www.panoramio.com
@@ -2917,7 +2953,7 @@
 # Mega
 117.18.237.188 g.cdn1.mega.co.nz
 
-#Apkpure
+# Apkpure
 46.17.101.80 apkpure.com
 46.17.101.80 www.apkpure.com
 46.17.101.80 m.apkpure.com
@@ -2998,7 +3034,7 @@
 104.244.43.199 si5.twimg.com
 104.244.43.199 image-proxy-origin.twimg.com
 104.244.42.67 about.twitter.com
-#104.244.42.67 betastream.twitter.com
+104.244.42.67 betastream.twitter.com
 104.244.42.195 blog.twitter.com
 199.59.150.48 cdn.api.twitter.com
 104.244.42.195 dev.twitter.com
@@ -3093,6 +3129,7 @@
 199.59.149.80 pay.twitter.com
 182.239.127.137 ton.twitter.com
 104.244.42.65 www.twitter.com
+104.244.42.3 apps.twitter.com
 
 # Medium
 104.16.120.127 medium.com
@@ -3104,7 +3141,7 @@
 103.245.222.101 medium.map.fastly.net
 192.161.157.172 help.medium.com
 
-# FB
+# FaceBook
 192.0.78.12 live.fb.com
 192.0.78.12 work.fb.com
 192.0.78.12 techprep.fb.com

@@ -2,7 +2,7 @@
 #	Partial data derived from cnAnonymous and aofall
 #	cnAnonymous: https://github.com/cnAnonymous/hosts
 #	aofall: https://github.com/aofall/Public-hosts
-#	Update: 2016-7-21
+#	Update: 2016-8-1
 
 127.0.0.1 localhost
 ::1 localhost
@@ -2894,7 +2894,7 @@
 208.80.154.224 gan.m.wikipedia.org
 208.80.154.224 ja.wikipedia.org
 208.80.154.224 ja.m.wikipedia.org
-198.35.26.112 upload.wikimedia.org
+198.35.26.96 upload.wikimedia.org
 208.80.154.224 bits.wikimedia.org
 208.80.154.224 www.mediawiki.org
 208.80.154.224 www.wikibooks.org
@@ -3007,8 +3007,8 @@
 
 # Twitter
 104.244.42.5 t.co
-104.244.42.65 twitter.com
-104.244.42.134 mobile.twitter.com 
+104.244.42.3 twitter.com
+104.244.42.3 mobile.twitter.com 
 104.244.43.7 pbs.twimg.com
 104.244.43.231 o.twimg.com
 104.244.43.199 abs.twimg.com
@@ -3079,28 +3079,16 @@
 209.17.68.209 oi54.tinypic.com
 209.17.68.209 oi55.tinypic.com
 209.17.68.209 oi56.tinypic.com
-173.236.110.98 twitpic.com
-173.236.110.98 m1.twitpic.com
 185.45.5.40 upload.twitter.com
 104.244.42.67 analytics.twitter.com
 199.59.150.48 urls-real.api.twitter.com
 108.61.13.60 userstream.twitter.com
-173.236.110.98 web1.twitpic.com
-173.236.110.98 web10.twitpic.com
-173.236.110.98 web2.twitpic.com
-173.236.110.98 web3.twitpic.com
-173.236.110.98 web4.twitpic.com
-173.236.110.98 web5.twitpic.com
-173.236.110.98 web6.twitpic.com
-173.236.110.98 web7.twitpic.com
-173.236.110.98 web8.twitpic.com
-173.236.110.98 web9.twitpic.com
-199.59.243.21 si0.twimg.co
-199.59.243.120 si1.twimg.co
-199.7.91.13 si2.twimg.co
-199.59.243.21 si3.twimg.co
-199.7.91.13 si4.twimg.co
-199.59.243.120 si5.twimg.co
+199.59.243.21 si0.twimg.com
+199.59.243.120 si1.twimg.com
+199.7.91.13 si2.twimg.com
+199.59.243.21 si3.twimg.com
+199.7.91.13 si4.twimg.com
+199.59.243.120 si5.twimg.com
 192.229.237.25 a2.twimg.com
 192.229.237.25 a3.twimg.com
 192.229.237.25 a4.twimg.com
@@ -3128,7 +3116,7 @@
 104.244.42.3 media.twitter.com
 199.59.149.80 pay.twitter.com
 182.239.127.137 ton.twitter.com
-104.244.42.65 www.twitter.com
+104.244.42.3 www.twitter.com
 104.244.42.3 apps.twitter.com
 
 # Medium

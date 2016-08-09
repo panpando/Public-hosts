@@ -1,6 +1,6 @@
 #	No Copyright
 #	Partial data derived from cnAnonymous and aofall
-#	Update: 2016-8-4
+#	Update: 2016-8-9
 
 127.0.0.1 localhost
 ::1 localhost
@@ -218,6 +218,8 @@
 202.86.162.172 mts7.googleapis.com
 202.86.162.172 mts8.googleapis.com
 202.86.162.172 mts9.googleapis.com
+202.86.162.172 khms0.googleapis.com
+202.86.162.172 khms1.googleapis.com
 202.86.162.172 ct.googleapis.com
 202.86.162.172 datasaver.googleapis.com
 202.86.162.172 remoting-pa.googleapis.com
@@ -368,6 +370,7 @@
 64.233.162.83 mail-china.l.google.com
 202.86.162.172 mail-settings.google.com
 202.86.162.172 gmail.google.com
+202.86.162.172 b.googlemail.l.google.com
 #(SMTP、POP、IMAP部分，需使用开放465、587、993、995端口的IP，一般以16、108、109结尾)
 64.233.188.109 gmail-imap.l.google.com
 64.233.188.16 googlemail-imap.l.google.com
@@ -2200,6 +2203,12 @@
 182.239.127.137 r4---sn-i3beln7z.gvt1.com
 182.239.127.137 r5---sn-i3beln7z.gvt1.com
 182.239.127.137 r6---sn-i3beln7z.gvt1.com
+182.239.127.137 r1---sn-jhi3-i3bl.gvt1.com
+182.239.127.137 r2---sn-jhi3-i3bl.gvt1.com
+182.239.127.137 r3---sn-jhi3-i3bl.gvt1.com
+182.239.127.137 r1---sn-jhi3-i3be.gvt1.com
+182.239.127.137 r2---sn-jhi3-i3be.gvt1.com
+182.239.127.137 r3---sn-jhi3-i3be.gvt1.com
 203.208.39.205 redirector.gvt1.com
 202.86.162.172 play.googleapis.com
 
@@ -3822,18 +3831,115 @@
 
 # Block in-app ADs
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 ad.leadboltads.net
 127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 ad.api.3g.youku.com
-127.0.0.1 statis.api.3g.youku.com
-127.0.0.1 atm.youku.com
-127.0.0.1 stat.youku.com
+#v.qq.com
+127.0.0.1 livew.l.qq.com
+127.0.0.1 c.l.qq.com
+127.0.0.1 cm.l.qq.com
+127.0.0.1 x.l.qq.com
+127.0.0.1 wa.gtimg.com
+#iqiyi-gitv
+127.0.0.1 api.cupid.ptqy.gitv.tv
+127.0.0.1 mixer.cupid.ptqy.gitv.tv
+127.0.0.1 msg.ptqy.gitv.tv
+127.0.0.1 msg.video.ptqy.gitv.tv
+127.0.0.1 msg2.video.ptqy.gitv.tv
+127.0.0.1 msga.ptqy.gitv.tv
+127.0.0.1 nl.rcd.ptqy.gitv.tv
+127.0.0.1 pb.bi.gitv.tv
+127.0.0.1 store.ptqy.gitv.tv
+127.0.0.1 msg.c002.ottcn.com
+#iqiyi-qiyi
+127.0.0.1 api.cupid.qiyi.com
+127.0.0.1 meta.video.qiyi.com
+127.0.0.1 msg.video.qiyi.com
+127.0.0.1 msg2.video.qiyi.com
+#iqiyi-pps
+127.0.0.1 count.game.pps.tv
+127.0.0.1 game.pps.tv
+127.0.0.1 static.g.ppstream.com
+127.0.0.1 msg.71.am
+127.0.0.1 qosp.msg.71.am
+127.0.0.1 msga.71.am
+127.0.0.1 androidgo.duapp.com
+127.0.0.1 noxagile.duapp.com
+#iqiyi
+127.0.0.1 api.cupid.iqiyi.com
+127.0.0.1 api.yuedu.iqiyi.com
+127.0.0.1 c.uaa.iqiyi.com
 127.0.0.1 cm.passport.iqiyi.com
-127.0.0.1 cupid.iqiyi.com
-127.0.0.1 paopao.iqiyi.com
-127.0.0.1 ckm.iqiyi.com
+127.0.0.1 gamecenter.iqiyi.com
+127.0.0.1 ifacelog.iqiyi.com
+127.0.0.1 mbdlog.iqiyi.com
+127.0.0.1 msg.iqiyi.com
+127.0.0.1 msga.cupid.iqiyi.com
+127.0.0.1 nl.notice.iqiyi.com
+127.0.0.1 notice.iqiyi.com
+127.0.0.1 ota.iqiyi.com
+127.0.0.1 policy.video.iqiyi.com
+127.0.0.1 static.g.iqiyi.com
+127.0.0.1 store.iqiyi.com
+127.0.0.1 t7z.cupid.iqiyi.com
+#letv
+127.0.0.1 api.game.letvstore.com
+127.0.0.1 msg.m.letv.com
 127.0.0.1 n.mark.letv.com
-127.0.0.1 ark.letv.com
-127.0.0.1 da.hunantv.com
-127.0.0.1 miaozhen.com
+127.0.0.1 static.app.m.letv.com
+#sohu-video
+127.0.0.1 888.tv.sohu.com
+127.0.0.1 agn.aty.sohu.com
+127.0.0.1 api.store.sohu.com
+127.0.0.1 dev.app.yule.sohu.com
+127.0.0.1 download.wan.sohu.com
+127.0.0.1 hui.sohu.com
+127.0.0.1 m.aty.sohu.com
+127.0.0.1 mb.hd.sohu.com.cn
+127.0.0.1 mmg.aty.sohu.com
+127.0.0.1 pg.aty.sohu.com
+127.0.0.1 pm.aty.sohu.com
+127.0.0.1 push.tv.sohu.com
+127.0.0.1 um.hd.sohu.com
+127.0.0.1 v.aty.sohu.com
+127.0.0.1 zz.m.sohu.com
+127.0.0.1 da.mmarket.com
+#youku
 127.0.0.1 ad.api.3g.tudou.com
+127.0.0.1 stats.tudou.com
+127.0.0.1 e.stat.ykimg.com
+127.0.0.1 p-log.ykimg.com
+127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 adp.atm.youku.com
+127.0.0.1 api.gamex.mobile.youku.com
+127.0.0.1 c.yes.youku.com
+127.0.0.1 cm.atm.youku.com
+127.0.0.1 count.atm.youku.com
+127.0.0.1 dev-push.m.youku.com
+127.0.0.1 dl.g.youku.com
+127.0.0.1 e.stat.youku.com
+127.0.0.1 lstat.youku.com
+127.0.0.1 mb.atm.youku.com
+127.0.0.1 mf.atm.youku.com
+127.0.0.1 mi.atm.youku.com
+127.0.0.1 mo.atm.youku.com
+127.0.0.1 mobilemsg.youku.com
+127.0.0.1 mp.atm.youku.com
+127.0.0.1 p.l.youku.com
+127.0.0.1 passport-log.youku.com
+127.0.0.1 push.m.youku.com
+127.0.0.1 r.l.youku.com
+127.0.0.1 rec.api.gamex.mobile.youku.com
+127.0.0.1 s.p.youku.com
+127.0.0.1 sdk.m.youku.com
+127.0.0.1 sdk.user.gamex.mobile.youku.com
+127.0.0.1 stat.youku.com
+127.0.0.1 store.tv.api.3g.youku.com
+127.0.0.1 store.xl.api.3g.youku.com
+127.0.0.1 tdrec.youku.com
+127.0.0.1 test.gamex.mobile.youku.com
+127.0.0.1 test.ott.youku.com
+127.0.0.1 test.sdk.gamex.mobile.youku.com
+127.0.0.1 test.sdk.m.youku.com
+127.0.0.1 urchin.lstat.youku.com
+127.0.0.1 wan.youku.com

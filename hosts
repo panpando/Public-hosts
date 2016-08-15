@@ -1,6 +1,6 @@
 #	No Copyright
 #	Partial data derived from cnAnonymous and aofall
-#	Update: 2016-8-15
+#	Update: 2016-8-16
 
 127.0.0.1 localhost
 ::1 localhost
@@ -3820,12 +3820,12 @@
 52.84.204.81 vt.tumblr.com
 
 # MEGA Start
-31.216.147.135	eu.api.mega.co.nz
-154.53.224.130	eu.static.mega.co.nz
-117.18.237.188	g.cdn1.mega.co.nz
-154.53.224.150	mega.co.nz
-154.53.224.166	mega.nz
-31.216.147.130	w.api.mega.co.nz
+31.216.145.90 eu.api.mega.co.nz
+154.53.224.130 eu.static.mega.co.nz
+117.18.237.188 g.cdn1.mega.co.nz
+154.53.224.150 mega.co.nz
+154.53.224.166 mega.nz
+31.216.145.90 w.api.mega.co.nz
 
 # other site
 203.78.36.36 store.valvesoftware.com

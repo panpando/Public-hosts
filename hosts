@@ -1,5 +1,6 @@
 #	No Copyright
 #	Partial data derived from cnAnonymous and aofall
+#	Update: 2016-8-15
 
 127.0.0.1 localhost
 ::1 localhost
@@ -2855,23 +2856,6 @@
 182.239.127.137 www.cloudfront.net
 
 # OneDrive
-202.171.253.111 skyweb.skyprod.akadns.net
-202.171.253.111 webedgegeo.skyprod.akadns.net
-202.171.253.111 account.live.com
-202.171.253.111 login.live.com
-202.171.253.111 mail.live.com
-202.171.253.111 people.live.com
-202.171.253.111 profile.live.com
-202.171.253.111 api.onedrive.com
-202.171.253.111 storage.live.com
-202.171.253.111 skyapi.live.net
-202.171.253.111 skyapi.policies.live.net
-202.171.253.111 apis.live.net
-202.171.253.111 auth.gfx.ms
-202.171.253.111 p.sfx.ms
-202.171.253.111 directory.services.live.com
-202.171.253.111 ivvbsg-bn1306.files.1drv.com
-202.171.253.111 nhuhga.dm2301.livefilestore.com
 204.79.197.217 onedrive.live.com
 204.79.197.217 skyweb.skyprod.akadns.net
 204.79.197.217 webedgegeo.skyprod.akadns.net

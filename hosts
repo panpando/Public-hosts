@@ -1,6 +1,6 @@
 #	No Copyright
 #	Partial data derived from cnAnonymous and aofall
-#	Update: 2016-8-16
+#	Update: 2016-8-15
 
 127.0.0.1 localhost
 ::1 localhost
@@ -2968,9 +2968,6 @@
 203.84.197.27 hk.news.yahoo.com
 203.84.197.27 tw.news.yahoo.com
 27.123.201.212 csc.beap.bc.yahoo.com
-
-# Mega
-117.18.237.188 g.cdn1.mega.co.nz
 
 # Apkpure
 46.17.101.80 apkpure.com

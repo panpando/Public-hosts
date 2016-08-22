@@ -1,6 +1,6 @@
 #	No Copyright
 #	Partial data derived from cnAnonymous and aofall
-#	Update: 2016-8-16
+#	Update: 2016-8-15
 
 127.0.0.1 localhost
 ::1 localhost
@@ -2895,9 +2895,9 @@
 204.79.197.213 public.dm2303.livefilestore.com
 204.79.197.213 public.dm2304.livefilestore.com
 204.79.197.213 bn1306files.storage.live.com
-134.170.104.152 cid-5b244b56e6779f21.users.storage.live.com
+#134.170.104.152 cid-5b244b56e6779f21.users.storage.live.com
 111.221.29.254 vortex.data.microsoft.com
-204.79.197.213 browser.pipe.aria.microsoft.com
+#204.79.197.217 browser.pipe.aria.microsoft.com
 
 # Wikipedia
 208.80.154.224 www.wikipedia.org
@@ -3817,12 +3817,13 @@
 52.84.204.81 vt.tumblr.com
 
 # MEGA Start
-31.216.145.90 eu.api.mega.co.nz
+31.216.147.135 eu.api.mega.co.nz
 154.53.224.130 eu.static.mega.co.nz
 117.18.237.188 g.cdn1.mega.co.nz
 154.53.224.150 mega.co.nz
 154.53.224.166 mega.nz
-31.216.145.90 w.api.mega.co.nz
+31.216.147.139 w.api.mega.co.nz
+31.216.147.137 g.api.mega.co.nz
 
 # other site
 203.78.36.36 store.valvesoftware.com
@@ -3843,6 +3844,7 @@
 222.73.144.170 williamlong.info
 222.73.144.170 www.williamlong.info
 119.10.42.189 www.dayanzai.me
+www.voachinese.com
 
 # Block in-app ADs
 127.0.0.1 googleads.g.doubleclick.net

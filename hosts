@@ -1,6 +1,6 @@
 ﻿#	No Copyright
 #	Partial data derived from cnAnonymous and aofall
-#	Update: 2016-9-26
+#	Update: 2016-9-28
 
 127.0.0.1 localhost
 ::1 localhost
@@ -138,6 +138,7 @@
 202.86.162.172 optimize.google.com
 202.86.162.172 attribution.google.com
 202.86.162.172 pixel.google.com
+202.86.162.172 search.google.com
 
 # Gstatic
 202.86.162.172 gstatic.com
@@ -243,13 +244,12 @@
 202.86.162.172 iam.clients6.google.com
 202.86.162.172 clientauthconfig.clients6.google.com
 202.86.162.172 realtimesupport.clients6.google.com
-202.86.162.172 google-analytics.com
+202.86.162.172 apikeys.clients6.google.com
 202.86.162.172 pack.google.com
 202.86.162.172 sb.google.com
 202.86.162.172 sb.l.google.com
 202.86.162.172 sb-ssl.google.com
 202.86.162.172 sb-ssl.l.google.com
-202.86.162.172 ssl.google-analytics.com
 202.86.162.172 ssl-google-analytics.l.google.com
 202.86.162.172 safebrowsing.google.com
 202.86.162.172 safebrowsing.clients.google.com
@@ -1769,6 +1769,7 @@
 202.86.162.172 gadgets.l.googleusercontent.com
 202.86.162.172 drive-thirdparty.googleusercontent.com
 202.86.162.172 scholar.googleusercontent.com
+202.86.162.172 markuphelper.googleusercontent.com
 
 # Google Clients
 202.86.162.172 clients.l.google.com
@@ -1848,6 +1849,7 @@
 202.86.162.172 feeds.feedburner.com
 202.86.162.172 blogsearch.google.com
 202.86.162.172 research.googleblog.com
+202.86.162.172 analytics.googleblog.com
 
 # Google hosted
 64.233.188.121 ghs.google.com
@@ -2403,6 +2405,9 @@
 202.86.162.172 www.registry.google
 202.86.162.172 firebase.google.com
 202.86.162.172 material.google.com
+202.86.162.172 www.appspot.com
+202.86.162.172 appspot.com
+202.86.162.172 apis-explorer.appspot.com
 
 # Youtube
 202.171.253.111 r1---sn-i3b7kn76.googlevideo.com
@@ -4015,15 +4020,15 @@
 219.76.4.4 log.getdropbox.com
 
 # Tumblr
-66.6.44.4 tumblr.com
-66.6.44.4 tumblr.co
-66.6.44.4 api.tumblr.com
-66.6.44.4 assets.tumblr.com
-66.6.44.4 www.tumblr.com
-66.6.44.4 cynicallys.tumblr.com
-66.6.32.34 mx.tumblr.com
+66.6.32.151 tumblr.com
+66.6.32.4 tumblr.co
+66.6.32.4 api.tumblr.com
+66.6.33.25 assets.tumblr.com
+66.6.32.4 www.tumblr.com
+66.6.32.22 cynicallys.tumblr.com
+66.6.32.4 mx.tumblr.com
 66.6.32.34 px.srvcs.tumblr.com
-54.192.86.85 media.tumblr.com
+66.6.32.22 media.tumblr.com
 54.192.98.136 30.media.tumblr.com
 54.230.75.191 31.media.tumblr.com
 54.192.98.136 32.media.tumblr.com
@@ -4057,14 +4062,10 @@
 192.229.237.98 97.media.tumblr.com
 209.197.3.20 98.media.tumblr.com
 209.197.3.20 99.media.tumblr.com
-68.232.35.63 secure.assets.tumblr.com
+66.6.32.25 secure.assets.tumblr.com
 54.230.74.176 secure.static.tumblr.com
-66.6.44.162 ls.srvcs.tumblr.com
-54.230.75.191 media.tumblr.com
-54.182.4.222 media.tumblr.com
-54.230.74.176 assets.tumblr.com
-54.230.74.143 vt.tumblr.com
-54.192.111.6 secure.static.tumblr.com
+66.6.32.162 ls.srvcs.tumblr.com
+66.6.32.21 vt.tumblr.com
 
 # MEGA Start
 31.216.147.135 eu.api.mega.co.nz

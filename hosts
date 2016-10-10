@@ -1,6 +1,6 @@
 ﻿#	No Copyright
 #	Partial data derived from cnAnonymous and aofall
-#	Update: 2016-9-28
+#	Update: 2016-10-11
 
 127.0.0.1 localhost
 ::1 localhost
@@ -28,6 +28,7 @@
 202.86.162.172 accounts.google.com.tw
 202.86.162.172 accounts.l.google.com
 202.86.162.172 myaccount.google.com
+202.86.162.172 accounts.google.co.id
 
 # Page
 202.86.162.172 google.com
@@ -3116,8 +3117,8 @@
 134.170.108.24 apis.live.net
 134.170.108.24 l.live.net
 134.170.108.24 d.docs.live.net
-# 23.44.152.70 auth.gfx.ms
-# 23.212.129.202 p.sfx.ms
+23.44.152.70 auth.gfx.ms
+23.212.129.202 p.sfx.ms
 65.55.52.23 directory.services.live.com
 134.170.108.224 bn1306.storage.skyprod.akadns.net
 134.170.108.224 asdzyw-bn1306.files.1drv.com

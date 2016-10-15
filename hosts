@@ -1,6 +1,6 @@
 ﻿#	No Copyright
 #	Partial data derived from cnAnonymous and aofall
-#	Update: 2016-10-11
+#	Update: 2016-10-15
 
 127.0.0.1 localhost
 ::1 localhost
@@ -1729,6 +1729,8 @@
 202.171.253.111 lh4.ggpht.com
 202.171.253.111 lh5.ggpht.com
 202.171.253.111 lh6.ggpht.com
+202.171.253.111 mua1.ggpht.com
+202.171.253.111 mua2.ggpht.com
 202.171.253.111 mua3.ggpht.com
 202.171.253.111 mua4.ggpht.com
 202.171.253.111 mua5.ggpht.com
@@ -2115,12 +2117,16 @@
 202.171.253.111 r4---sn-i3b7kn7s.gvt1.com
 202.171.253.111 r5---sn-i3b7kn7s.gvt1.com
 202.171.253.111 r6---sn-i3b7kn7s.gvt1.com
+202.171.253.111 r7---sn-i3b7kn7s.gvt1.com
+202.171.253.111 r8---sn-i3b7kn7s.gvt1.com
 202.171.253.111 r1---sn-i3b7kn7z.gvt1.com
 202.171.253.111 r2---sn-i3b7kn7z.gvt1.com
 202.171.253.111 r3---sn-i3b7kn7z.gvt1.com
 202.171.253.111 r4---sn-i3b7kn7z.gvt1.com
 202.171.253.111 r5---sn-i3b7kn7z.gvt1.com
 202.171.253.111 r6---sn-i3b7kn7z.gvt1.com
+202.171.253.111 r7---sn-i3b7kn7z.gvt1.com
+202.171.253.111 r8---sn-i3b7kn7z.gvt1.com
 202.171.253.111 r1---sn-i3b7kne6.gvt1.com
 202.171.253.111 r2---sn-i3b7kne6.gvt1.com
 202.171.253.111 r3---sn-i3b7kne6.gvt1.com
@@ -2167,12 +2173,16 @@
 202.171.253.111 r4---sn-i3beln7d.gvt1.com
 202.171.253.111 r5---sn-i3beln7d.gvt1.com
 202.171.253.111 r6---sn-i3beln7d.gvt1.com
+202.171.253.111 r7---sn-i3beln7d.gvt1.com
+202.171.253.111 r8---sn-i3beln7d.gvt1.com
 202.171.253.111 r1---sn-i3b7kn7k.gvt1.com
 202.171.253.111 r2---sn-i3b7kn7k.gvt1.com
 202.171.253.111 r3---sn-i3b7kn7k.gvt1.com
 202.171.253.111 r4---sn-i3b7kn7k.gvt1.com
 202.171.253.111 r5---sn-i3b7kn7k.gvt1.com
 202.171.253.111 r6---sn-i3b7kn7k.gvt1.com
+202.171.253.111 r7---sn-i3b7kn7k.gvt1.com
+202.171.253.111 r8---sn-i3b7kn7k.gvt1.com
 202.171.253.111 r1---sn-i3b7kne7.gvt1.com
 202.171.253.111 r2---sn-i3b7kne7.gvt1.com
 202.171.253.111 r3---sn-i3b7kne7.gvt1.com
@@ -2199,30 +2209,48 @@
 202.171.253.111 r4---sn-i3beln7s.gvt1.com
 202.171.253.111 r5---sn-i3beln7s.gvt1.com
 202.171.253.111 r6---sn-i3beln7s.gvt1.com
+202.171.253.111 r7---sn-i3beln7s.gvt1.com
+202.171.253.111 r8---sn-i3beln7s.gvt1.com
 202.171.253.111 r1---sn-i3beln76.gvt1.com
 202.171.253.111 r2---sn-i3beln76.gvt1.com
 202.171.253.111 r3---sn-i3beln76.gvt1.com
 202.171.253.111 r4---sn-i3beln76.gvt1.com
 202.171.253.111 r5---sn-i3beln76.gvt1.com
 202.171.253.111 r6---sn-i3beln76.gvt1.com
+202.171.253.111 r7---sn-i3beln76.gvt1.com
+202.171.253.111 r8---sn-i3beln76.gvt1.com
 202.171.253.111 r1---sn-i3beln7k.gvt1.com
 202.171.253.111 r2---sn-i3beln7k.gvt1.com
 202.171.253.111 r3---sn-i3beln7k.gvt1.com
 202.171.253.111 r4---sn-i3beln7k.gvt1.com
 202.171.253.111 r5---sn-i3beln7k.gvt1.com
 202.171.253.111 r6---sn-i3beln7k.gvt1.com
+202.171.253.111 r7---sn-i3beln7k.gvt1.com
+202.171.253.111 r8---sn-i3beln7k.gvt1.com
 202.171.253.111 r1---sn-i3beln7z.gvt1.com
 202.171.253.111 r2---sn-i3beln7z.gvt1.com
 202.171.253.111 r3---sn-i3beln7z.gvt1.com
 202.171.253.111 r4---sn-i3beln7z.gvt1.com
 202.171.253.111 r5---sn-i3beln7z.gvt1.com
 202.171.253.111 r6---sn-i3beln7z.gvt1.com
+202.171.253.111 r7---sn-i3beln7z.gvt1.com
+202.171.253.111 r8---sn-i3beln7z.gvt1.com
 202.171.253.111 r1---sn-jhi3-i3bl.gvt1.com
 202.171.253.111 r2---sn-jhi3-i3bl.gvt1.com
 202.171.253.111 r3---sn-jhi3-i3bl.gvt1.com
+202.171.253.111 r4---sn-jhi3-i3bl.gvt1.com
+202.171.253.111 r5---sn-jhi3-i3bl.gvt1.com
+202.171.253.111 r6---sn-jhi3-i3bl.gvt1.com
+202.171.253.111 r7---sn-jhi3-i3bl.gvt1.com
+202.171.253.111 r8---sn-jhi3-i3bl.gvt1.com
 202.171.253.111 r1---sn-jhi3-i3be.gvt1.com
 202.171.253.111 r2---sn-jhi3-i3be.gvt1.com
 202.171.253.111 r3---sn-jhi3-i3be.gvt1.com
+202.171.253.111 r4---sn-jhi3-i3be.gvt1.com
+202.171.253.111 r5---sn-jhi3-i3be.gvt1.com
+202.171.253.111 r6---sn-jhi3-i3be.gvt1.com
+202.171.253.111 r7---sn-jhi3-i3be.gvt1.com
+202.171.253.111 r8---sn-jhi3-i3be.gvt1.com
 202.171.253.111 r1---sn-juh-h4hs.gvt1.com
 202.171.253.111 r2---sn-juh-h4hs.gvt1.com
 202.171.253.111 r3---sn-juh-h4hs.gvt1.com
@@ -2230,6 +2258,7 @@
 202.171.253.111 r5---sn-juh-h4hs.gvt1.com
 202.171.253.111 r6---sn-juh-h4hs.gvt1.com
 202.171.253.111 r7---sn-juh-h4hs.gvt1.com
+202.171.253.111 r8---sn-juh-h4hs.gvt1.com
 202.171.253.111 r1---sn-npoe7n76.gvt1.com
 202.171.253.111 r2---sn-npoe7n76.gvt1.com
 202.171.253.111 r3---sn-npoe7n76.gvt1.com
@@ -2242,12 +2271,16 @@
 202.171.253.111 r4---sn-juh-h4hz.gvt1.com
 202.171.253.111 r5---sn-juh-h4hz.gvt1.com
 202.171.253.111 r6---sn-juh-h4hz.gvt1.com
+202.171.253.111 r7---sn-juh-h4hz.gvt1.com
+202.171.253.111 r8---sn-juh-h4hz.gvt1.com
 202.171.253.111 r1---sn-i3j5cax-i3bs.gvt1.com
 202.171.253.111 r2---sn-i3j5cax-i3bs.gvt1.com
 202.171.253.111 r3---sn-i3j5cax-i3bs.gvt1.com
 202.171.253.111 r4---sn-i3j5cax-i3bs.gvt1.com
 202.171.253.111 r5---sn-i3j5cax-i3bs.gvt1.com
 202.171.253.111 r6---sn-i3j5cax-i3bs.gvt1.com
+202.171.253.111 r7---sn-i3j5cax-i3bs.gvt1.com
+202.171.253.111 r8---sn-i3j5cax-i3bs.gvt1.com
 203.208.39.205 redirector.gvt1.com
 172.217.24.238 play.googleapis.com
 

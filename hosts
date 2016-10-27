@@ -3102,7 +3102,7 @@
 110.232.178.193 www.iobit.com
 
 # Github
-192.30.253.119 gist.github.com
+192.30.253.113 gist.github.com
 
 # Amazonaws S3
 54.239.96.90 ap-northeast-1.console.aws.amazon.com
@@ -3125,9 +3125,9 @@
 177.72.244.68 sa-east-1.console.aws.amazon.com
 204.246.162.198 us-west-1.console.aws.amazon.com
 # 54.240.250.61 us-west-2.console.aws.amazon.com
-54.231.34.41 github-cloud.s3.amazonaws.com
+52.216.80.48 github-cloud.s3.amazonaws.com
 54.231.48.40 github-com.s3.amazonaws.com
-54.231.11.136 github-windows.s3.amazonaws.com
+54.231.48.40 github-windows.s3.amazonaws.com
 #202.171.253.111 www.cloudfront.net
 
 # OneDrive
